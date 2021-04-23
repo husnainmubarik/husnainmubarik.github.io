@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* University of Illinois at Urbana Champaign (UIUC), <div style="text-align: right"> USA.Jan 2019 - Present </div> <br \>
-PhD - Electrical and Computer Engineering (ECE) <div style="text-align: right"> Advisor: Prof.  Rakesh Kumar </div> 
+* University of Illinois at Urbana Champaign (UIUC), USA. <div align="right"> Jan 2019 - Present </div> <br \>
+PhD - Electrical and Computer Engineering (ECE) <div align="right"> Advisor: Prof.  Rakesh Kumar </div> 
 
 Work experience
 ======
