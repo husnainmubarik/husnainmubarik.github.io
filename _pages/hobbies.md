@@ -10,22 +10,22 @@ redirect_from:
 |------------|
 | <img src="../images/art-1.jpg" width="250%" height="250">  | 
 |------------|
-| col 1      |
+| [24:35]      |
 |------------|
 | <img src="../images/art-2.jpg" width="250%" height="250">  | 
 |------------|
-| col 1      |
+| [42:13]      |
 |------------|
 | <img src="../images/art-3.jpg" width="250%" height="250">  | 
 |------------|
-| col 1      |
+| [21:87]      |
 |------------|
 | <img src="../images/art-4.jpg" width="250%" height="250">  | 
 |------------|
-| col 1      |
+| [3:26]      |
 |------------|
 | <img src="../images/art-5.jpg" width="250%" height="250">  | 
 |------------|
-| col 1      |
+| [1:5]      |
 |------------|
 
