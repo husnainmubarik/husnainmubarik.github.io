@@ -86,7 +86,7 @@ author:
   location         : "210 CSL UIUC"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    :  "https://scholar.google.com/citations?user=Bz0xVZAAAAAJ&hl=en" 
   email            :  "mubarik3@illinois.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
