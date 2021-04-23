@@ -19,6 +19,5 @@ and Emerging Technologies/Applications.
 
 ## Recent News
 
-* **May 2021:** 
 * **April 2021:** I'll be joining Heterogeneous Platforms Labs at [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html) as a Graduate Research Intern for the upcoming summer. 
 
