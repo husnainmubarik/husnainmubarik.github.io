@@ -7,6 +7,11 @@ redirect_from:
   - /hobbies.html
 ---
 
+## Reading Recommendations
+
+
+## Calligraphy 
+
 |------------|
 | <img src="../images/art-1.jpg" width="250%" height="250">  | 
 |------------|
