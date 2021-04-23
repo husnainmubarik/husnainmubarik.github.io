@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* University of Illinois at Urbana Champaign (UIUC), <div style="text-align: right"> USA.Jan 2019 - Present </div> <br \>
+PhD - Electrical and Computer Engineering (ECE) <div style="text-align: right"> Advisor: Prof.  Rakesh Kumar </div> 
 
 Work experience
 ======
