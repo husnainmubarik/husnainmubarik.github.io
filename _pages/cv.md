@@ -41,31 +41,31 @@ Research and Work Experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Verilog/SystemVerilog/VHDL, TensorFlow, Python, Synopsis Design-Compiler, Place and Route, Ca-dence Stratus-HLS, HPVM, GEM5, RISC-V, Xilinx, C++, Sci-kit Learn, Caffe.
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* **Printed Machine Learning Classifiers** <br /> 
+**M. Mubarik**, D. Weller, N. BLEIER, M. Tomei, M. J. Aghassi-Hagmann, M. Tahoori, R. Kumar, [paper](https://ieeexplore.ieee.org/abstract/document/9251954), **MICRO2020, IEEE Micro Top Picks - Honorable Mention 2021.**
+* **Printed Microprocessors** <br />
+N. Bleier, **M. Mubarik**, F. Rasheed, J. Aghassi-Hagmann, M. Tahoori, and R. Kumar, [paper](https://ieeexplore.ieee.org/abstract/document/9138931), **ISCA2020** 
+
+Courses
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* ECE-598NSG: Deep Learning in Hardware (Naresh Shanbhag).
+* CS-598SVA: App-Cust Heterogeneous Systems (Sarita Adve).
+* ECE-511:  Advanced Computer Architecture (Rakesh Kumar).
+* CS-533:  Parallel Computer Architecture (Josep Torrellas).
+* CS-598JT: Energy Efficient Computer Architecture (Josep Torrellas).
+* ECE-524/CS-563:  Advanced Computer Security (Adam Bates).
+* CS498ME Architecture for Mobile and Edge Computing (Saugata Ghose) - Ongoing.
+* CS598LCE Languages and Compilers for Edge Computing (Vikram S. Adve) - Ongoing.
+
+Acaemic Achievements and Awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **IEEE Micro Top Picks - Honorable Mention 2021**.
+* Prime Minister’s Silver Medal2018, NUST-CEME.
+* NECOP Fellowship 2014-2017.
+* High Achievers Award, NUST-CEME.
+* Golden Star Award, NUST-CEME.
+* NUST GPA scholarships 2013-2017.
