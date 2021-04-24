@@ -41,7 +41,8 @@ Research and Work Experience
   
 Skills
 ======
-Verilog/SystemVerilog/VHDL, TensorFlow, Python, Synopsis Design-Compiler, Place and Route, Ca-dence Stratus-HLS, HPVM, GEM5, RISC-V, Xilinx, C++, Sci-kit Learn, Caffe.
+* Programming languages: SystemVerilog, Python, C++, bash.
+* Tools: TensorFlow, Synopsis Design-Compiler, GEM5, Cadence Place and Route, Cadence Stratus-HLS, HPVM, g++, gcc, git, Xilinx, Sci-kit Learn. 
 
 Publications
 ======
