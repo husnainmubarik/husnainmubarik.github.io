@@ -11,20 +11,33 @@ redirect_from:
 
 Education
 ======
-* University of Illinois at Urbana Champaign (UIUC), USA. <div align="right"> Jan 2019 - Present </div> <br \>
-PhD - Electrical and Computer Engineering (ECE) <div align="right"> Advisor: Prof.  Rakesh Kumar </div> 
+* University of Illinois at Urbana Champaign (UIUC), USA. Jan 2019 - Present <br \>
+PhD - Electrical and Computer Engineering (ECE), Advisor: Prof.  Rakesh Kumar
+* National University of Sciences and Technology (NUST), Pakistan. Sep 2013 - July 2017 <br \>
+Bachelors of Science in Electrical Engineering
 
-Work experience
+Research and Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Heterogeneous Platforms Lab (HPL), Intel Labs, USA. May 2021 - Present
+Research Intern, Manager: Tanay Karnik
+  * Understanding media algorithms
+  * Research and design of new accelerators
+  * Simulation studies and presentation of results
+* Coordinated Science Laboratory (CSL), UIUC, USA. Jan 2019 - Present
+  * Research Assistant
+    * DHPVM: Distributed Heterogeneous Parallel Virtual Machine (Ongoing)
+    * Outer Product CPU Instruction for Accelerator-level Neural Network Computation Throughput (Ongoing)
+    * Rethinking Earable Processors 
+    * Model-specific Design of Deeply-Embedded Tiny Neural Network Accelerators (Ongoing)
+    * Printed Machine Learning Classifiers **MICRO2020**
+    * Printed Microprocessors **ISCA2020**
+* National Electronics Complex of Pakistan (NECOP), Pakistan. Jul 2017 - Oct 2018
+  * RF and Microwave Design Engineer - Assistant Manager
+    * Designed and Developed IMF Receiver, Antennas for Phased Array Radar, Branched Line HybridCoupler, Power Dividers and Band Pass Filters for X-Band Applications.
+* MERL - NUST, Pakistan. June 2016- July2017
+  * Research Intern 
+    * Designed and Developed a ”Low Cost Short Range Frequency Modulated Continuous Wave Radar(FMCW) Radar”.  (Second Position in Rector’s Gold Medal Competition - NUST.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
