@@ -11,15 +11,12 @@ redirect_from:
 
 Education
 ======
-* University of Illinois at Urbana Champaign (UIUC), USA. Jan 2019 - Present <br \>
-PhD - Electrical and Computer Engineering (ECE), Advisor: Prof.  Rakesh Kumar
-* National University of Sciences and Technology (NUST), Pakistan. Sep 2013 - July 2017 <br \>
-Bachelors of Science in Electrical Engineering
+* University of Illinois at Urbana Champaign (UIUC), USA. Jan 2019 - Present <br \> PhD - Electrical and Computer Engineering (ECE), Advisor: Prof.  Rakesh Kumar
+* National University of Sciences and Technology (NUST), Pakistan. Sep 2013 - July 2017 <br \> Bachelors of Science in Electrical Engineering
 
 Research and Work Experience
 ======
-* Heterogeneous Platforms Lab (HPL), Intel Labs, USA. May 2021 - Present
-Research Intern, Manager: Tanay Karnik
+* Intel Labs - Heterogeneous Platforms Lab (HPL), USA. May 2021 - Present <br \> Research Intern, Manager: Tanay Karnik
   * Understanding media algorithms
   * Research and design of new accelerators
   * Simulation studies and presentation of results
