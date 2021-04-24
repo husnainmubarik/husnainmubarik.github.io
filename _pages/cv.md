@@ -11,19 +11,22 @@ redirect_from:
 
 Education
 ======
-* University of Illinois at Urbana Champaign (UIUC), USA. Jan 2019 - Present <br \> PhD - Electrical and Computer Engineering (ECE), Advisor: Prof.  Rakesh Kumar
-* National University of Sciences and Technology (NUST), Pakistan. Sep 2013 - July 2017 <br \> Bachelors of Science in Electrical Engineering
+* University of Illinois at Urbana Champaign (UIUC), USA. Jan 2019 - Present 
+  * PhD - Electrical and Computer Engineering (ECE), Advisor: Prof.  Rakesh Kumar
+* National University of Sciences and Technology (NUST), Pakistan. Sep 2013 - July 2017 
+  * Bachelors of Science in Electrical Engineering
 
 Research and Work Experience
 ======
-* Intel Labs - Heterogeneous Platforms Lab (HPL), USA. May 2021 - Present <br \> Research Intern, Manager: Tanay Karnik
-  * Understanding media algorithms
-  * Research and design of new accelerators
-  * Simulation studies and presentation of results
+* Intel Labs - Heterogeneous Platforms Lab (HPL), USA. May 2021 - Present 
+  * Graduate Research Intern, Manager: Tanay Karnik
+    * Understanding media algorithms
+    * Research and design of new accelerators
+    * Simulation studies and presentation of results
 * Coordinated Science Laboratory (CSL), UIUC, USA. Jan 2019 - Present
-  * Research Assistant
-    * DHPVM: Distributed Heterogeneous Parallel Virtual Machine (Ongoing)
-    * Outer Product CPU Instruction for Accelerator-level Neural Network Computation Throughput (Ongoing)
+  * Research Assistant, Advisor: Rakesh Kumar
+    * DHPVM: Distributed Heterogeneous Parallel Virtual Machine (Ongoing - CS598LCE)
+    * Outer Product CPU Instruction for Accelerator-level Neural Network Computation Throughput (Ongoing - CS498ME)
     * Rethinking Earable Processors 
     * Model-specific Design of Deeply-Embedded Tiny Neural Network Accelerators (Ongoing)
     * Printed Machine Learning Classifiers **MICRO2020**
