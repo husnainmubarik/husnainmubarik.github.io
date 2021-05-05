@@ -25,5 +25,5 @@ and Emerging Technologies/Applications.
 * **[October 2020]** Printed Machine Learning Classifiers paper presented at MICRO 2020 [VIDEO](https://www.youtube.com/watch?v=RzE-ThPiMxI). 
 * **[July 2020]** Printed Machine Learning Classifiers paper accepted at MICRO 2020. 
 * **[March 2020]** Printed Microprocessors paper accepted at ISCA 2020. 
-* **[January 2019]** Joined the [PASSAT lab](https://passat.crhc.illinois.edu/) at UIUC supervised by Dr. Rakesh Kumar. 
+* **[January 2019]** Joined the [PASSAT](https://passat.crhc.illinois.edu/) group at UIUC supervised by Dr. Rakesh Kumar. 
 * **[January 2019]** Joined the Electrical and Computer Engineering Ph.D. program at UIUC.
