@@ -19,19 +19,19 @@ and Emerging Technologies/Applications.
 
 ## News
 
-* **<span style="color: red;">[May 2021]</span>** 
+* **<span style="color: blue;">[May 2021]</span>** 
 I've joined the Heterogeneous Platforms Labs at [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html) as a Graduate Research Intern. 
-* **<span style="color: red;">[December 2020]</span>** 
+* **<span style="color: blue;">[December 2020]</span>** 
 Passed the PhD qualification exam (Computer architecture qual. - ECE UIUC). 
-* **<span style="color: red;">[November 2020]</span>** 
+* **<span style="color: blue;">[November 2020]</span>** 
 Printed Machine Learning Classifiers paper selected as IEEE Micro Top Picks - Honorable Mention 2021. 
-* **<span style="color: red;">[October 2020]</span>** 
+* **<span style="color: blue;">[October 2020]</span>** 
 Printed Machine Learning Classifiers paper presented at MICRO 2020 [VIDEO](https://www.youtube.com/watch?v=RzE-ThPiMxI). 
-* **<span style="color: red;">[July 2020]</span>** 
+* **<span style="color: blue;">[July 2020]</span>** 
 Printed Machine Learning Classifiers paper accepted at MICRO 2020. 
-* **<span style="color: red;">[March 2020]</span>** 
+* **<span style="color: blue;">[March 2020]</span>** 
 Printed Microprocessors paper accepted at ISCA 2020. 
-* **<span style="color: red;">[January 2019]</span>** 
+* **<span style="color: blue;">[January 2019]</span>** 
 Joined the [PASSAT](https://passat.crhc.illinois.edu/) group at UIUC supervised by Dr. Rakesh Kumar. 
-* **<span style="color: red;">[January 2019]</span>** 
+* **<span style="color: blue;">[January 2019]</span>** 
 Joined the Electrical and Computer Engineering Ph.D. program at UIUC.
