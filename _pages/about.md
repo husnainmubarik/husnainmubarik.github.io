@@ -19,11 +19,19 @@ and Emerging Technologies/Applications.
 
 ## News
 
-* **[May 2021]** I've joined the Heterogeneous Platforms Labs at [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html) as a Graduate Research Intern. 
-* **[December 2020]** Passed the PhD qualification exam (Computer architecture qual. - ECE UIUC). 
-* **[November 2020]** Printed Machine Learning Classifiers paper selected as IEEE Micro Top Picks - Honorable Mention 2021. 
-* **[October 2020]** Printed Machine Learning Classifiers paper presented at MICRO 2020 [VIDEO](https://www.youtube.com/watch?v=RzE-ThPiMxI). 
-* **[July 2020]** Printed Machine Learning Classifiers paper accepted at MICRO 2020. 
-* **[March 2020]** Printed Microprocessors paper accepted at ISCA 2020. 
-* **[January 2019]** Joined the [PASSAT](https://passat.crhc.illinois.edu/) group at UIUC supervised by Dr. Rakesh Kumar. 
-* **[January 2019]** Joined the Electrical and Computer Engineering Ph.D. program at UIUC.
+* **<span style="color: red;">[May 2021]</span>** 
+I've joined the Heterogeneous Platforms Labs at [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html) as a Graduate Research Intern. 
+* **<span style="color: red;">[December 2020]</span>** 
+Passed the PhD qualification exam (Computer architecture qual. - ECE UIUC). 
+* **<span style="color: red;">[November 2020]</span>** 
+Printed Machine Learning Classifiers paper selected as IEEE Micro Top Picks - Honorable Mention 2021. 
+* **<span style="color: red;">[October 2020]</span>** 
+Printed Machine Learning Classifiers paper presented at MICRO 2020 [VIDEO](https://www.youtube.com/watch?v=RzE-ThPiMxI). 
+* **<span style="color: red;">[July 2020]</span>** 
+Printed Machine Learning Classifiers paper accepted at MICRO 2020. 
+* **<span style="color: red;">[March 2020]</span>** 
+Printed Microprocessors paper accepted at ISCA 2020. 
+* **<span style="color: red;">[January 2019]</span>** 
+Joined the [PASSAT](https://passat.crhc.illinois.edu/) group at UIUC supervised by Dr. Rakesh Kumar. 
+* **<span style="color: red;">[January 2019]</span>** 
+Joined the Electrical and Computer Engineering Ph.D. program at UIUC.
