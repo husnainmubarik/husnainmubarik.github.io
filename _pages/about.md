@@ -19,5 +19,6 @@ and Emerging Technologies/Applications.
 
 ## Recent News
 
-* **April 2021:** I'll be joining Heterogeneous Platforms Labs at [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html) as a Graduate Research Intern for the upcoming summer. 
+* **May 2021:** I've joined the Heterogeneous Platforms Labs at [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html) as a Graduate Research Intern. 
+* **December 2020:** Passed the PhD qualification exam (Computer architecture qual. - ECE UIUC). 
 
