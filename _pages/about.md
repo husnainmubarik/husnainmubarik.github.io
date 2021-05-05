@@ -14,7 +14,7 @@ advised by Prof. [Rakesh Kumar](https://passat.crhc.illinois.edu/).
 My research interests are generally in the areas of Hardware Systems and Computer 
 Architecture. Particularly, I'm interested in Machine Learning Accelerators, 
 Heterogeneous Parallel Systems, Earable Computing, 
-Distributed Computing, Printed Computer Systems 
+Distributed Computing, Digital IC Design, Printed Computer Systems 
 and Emerging Technologies/Applications.
 
 ## Recent News
