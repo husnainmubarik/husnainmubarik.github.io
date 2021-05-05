@@ -18,7 +18,7 @@ Education
 Research and Work Experience
 ======
 * Intel Labs - Heterogeneous Platforms Lab (HPL), USA. May 2021 - Present 
-  * Graduate Research Intern, Manager: Tanay Karnik
+  * Graduate Research Intern, Manager: [Tanay Karnik](https://www.intel.com/content/www/us/en/research/researchers/tanay-karnik.html)
     * Understanding media algorithms
     * Research and design of new accelerators
     * Simulation studies and presentation of results
