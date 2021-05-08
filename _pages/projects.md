@@ -1,0 +1,15 @@
+---
+permalink: /projects/
+title: "Projects"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /projects.html
+---
+
+* DHPVM: Distributed Heterogeneous Parallel Virtual Machine (Ongoing - CS598LCE)
+* Outer Product CPU Instruction for Accelerator-level Neural Network Computation Throughput (Ongoing - CS498ME)
+* Rethinking Earable Processors 
+* Model-specific Design of Deeply-Embedded Tiny Neural Network Accelerators (Ongoing)
+* Printed Machine Learning Classifiers **MICRO2020**
+* Printed Microprocessors **ISCA2020**
