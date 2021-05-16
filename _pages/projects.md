@@ -7,7 +7,7 @@ redirect_from:
   - /projects.html
 ---
 
-* DHPVM: Distributed Heterogeneous Parallel Virtual Machine (Ongoing - CS598LCE)
+* DHPVM: Distributed Heterogeneous Parallel Virtual Machine [Slides](https://husnainmubarik.github.io/files/CS598LCE.pdf)
 * Outer Product CPU Instruction for Accelerator-level Neural Network Computation Throughput (Ongoing - CS498ME)
 * Rethinking Earable Processors 
 * Model-specific Design of Deeply-Embedded Tiny Neural Network Accelerators (Ongoing)
