@@ -17,12 +17,12 @@ Education
 
 Research and Work Experience
 ======
-* Intel Labs - Heterogeneous Platforms Lab (HPL), USA. May 2021 - Present 
+* Intel Labs - Heterogeneous Platforms Lab (HPL), USA. May 2021 - Aug 2021. 
   * Graduate Research Intern, Manager: [Tanay Karnik](https://www.intel.com/content/www/us/en/research/researchers/tanay-karnik.html)
     * Understanding the impacts of super resolution in the context of end-to-end latency of cloud gaming.
     * Providing hardware support for accelerating deep learning based super resolution.
     * Designing compiler (scheduler) for evaluating the super resolution workloads on the custom accelerator. 
-* Coordinated Science Laboratory (CSL), UIUC, USA. Jan 2019 - Present
+* Coordinated Science Laboratory (CSL), UIUC, USA. Jan 2019 - **Present**
   * Research Assistant, Advisor: Rakesh Kumar
     * DHPVM: Distributed Heterogeneous Parallel Virtual Machine (Ongoing - CS598LCE)
     * Outer Product CPU Instruction for Accelerator-level Neural Network Computation Throughput (Ongoing - CS498ME)
