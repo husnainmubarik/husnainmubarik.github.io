@@ -19,9 +19,9 @@ Research and Work Experience
 ======
 * Intel Labs - Heterogeneous Platforms Lab (HPL), USA. May 2021 - Present 
   * Graduate Research Intern, Manager: [Tanay Karnik](https://www.intel.com/content/www/us/en/research/researchers/tanay-karnik.html)
-    * Understanding media algorithms
-    * Research and design of new accelerators
-    * Simulation studies and presentation of results
+    * Understanding the impacts of super resolution in the context of end-to-end latency of cloud gaming.
+    * Providing hardware support for accelerating deep learning based super resolution.
+    * Designing compiler (scheduler) for evaluating the super resolution workloads on the custom accelerator. 
 * Coordinated Science Laboratory (CSL), UIUC, USA. Jan 2019 - Present
   * Research Assistant, Advisor: Rakesh Kumar
     * DHPVM: Distributed Heterogeneous Parallel Virtual Machine (Ongoing - CS598LCE)
@@ -58,8 +58,9 @@ Courses
 * CS-533:  Parallel Computer Architecture (Josep Torrellas).
 * CS-598JT: Energy Efficient Computer Architecture (Josep Torrellas).
 * ECE-524/CS-563:  Advanced Computer Security (Adam Bates).
-* CS498ME Architecture for Mobile and Edge Computing (Saugata Ghose) - Ongoing.
-* CS598LCE Languages and Compilers for Edge Computing (Vikram S. Adve) - Ongoing.
+* CS498ME Architecture for Mobile and Edge Computing (Saugata Ghose).
+* CS598LCE Languages and Compilers for Edge Computing (Vikram S. Adve).
+* ECE598MS: Advanced Memory and Storage Systems (Jian Huang) - ongoing.
 
 Acaemic Achievements and Awards
 ======
