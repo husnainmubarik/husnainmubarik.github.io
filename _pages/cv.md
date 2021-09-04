@@ -61,6 +61,7 @@ Courses
 * CS498ME Architecture for Mobile and Edge Computing (Saugata Ghose).
 * CS598LCE Languages and Compilers for Edge Computing (Vikram S. Adve).
 * ECE598MS: Advanced Memory and Storage Systems (Jian Huang) - ongoing.
+* CS598DWH: 3D Vision (Derek W Hoiem) - ongoing.
 
 Acaemic Achievements and Awards
 ======
