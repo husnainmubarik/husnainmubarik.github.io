@@ -26,8 +26,8 @@ Research and Work Experience
 * Coordinated Science Laboratory (CSL), UIUC, USA. Jan 2019 - **Present**
   * Research Assistant, Advisor: Rakesh Kumar
     * Hardware support for video interpolation and denoising - ongoing. 
-    * DHPVM: Distributed Heterogeneous Parallel Virtual Machine (Ongoing - CS598LCE)
-    * Outer Product CPU Instruction for Accelerator-level Neural Network Computation Throughput (Ongoing - CS498ME)
+    * DHPVM: Distributed Heterogeneous Parallel Virtual Machine (CS598LCE)
+    * Outer Product CPU Instruction for Accelerator-level Neural Network Computation Throughput (CS498ME)
     * Rethinking Earable Processors 
     * Model-specific Design of Deeply-Embedded Tiny Neural Network Accelerators (Ongoing)
     * Printed Machine Learning Classifiers **MICRO2020**
