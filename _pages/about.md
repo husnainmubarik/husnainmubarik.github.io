@@ -13,7 +13,8 @@ department at the [University of Illinois at Urbana Champaign](https://illinois.
 advised by Prof. [Rakesh Kumar](https://passat.crhc.illinois.edu/). 
 My research interests are generally in the areas of Hardware Systems and Computer 
 Architecture. Particularly, I'm interested in Machine Learning Accelerators, 
-HW Acceleration of Cloud Gaming, 
+Low Power and Energy Efficient Graphics, 
+HW Acceleration of Graphics/Vision Applications, 
 Heterogeneous Parallel Systems, Earable Computing, 
 Distributed Computing, Digital IC Design, Printed Computer Systems 
 and Emerging Technologies/Applications.
@@ -22,6 +23,8 @@ and Emerging Technologies/Applications.
 
 * **<span style="color: #084780;">[March 2022]</span>** 
 Rethinking Programmable Earable Processors paper accepted at ISCA 2022. 
+* **<span style="color: #084780;">[Dec 2021]</span>** 
+I've joined the Cloud Systems Research Lab at [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html) as a Part-time Graduate Research Intern. 
 * **<span style="color: #084780;">[May 2021]</span>** 
 I've joined the Heterogeneous Platforms Labs at [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html) as a Graduate Research Intern. 
 * **<span style="color: #084780;">[December 2020]</span>** 
