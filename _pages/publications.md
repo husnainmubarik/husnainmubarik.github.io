@@ -6,6 +6,8 @@ redirect_from:
   - /md/
   - /publications.html
 ---
+* Rethinking Programmable Earable Processors <br /> 
+N. BLEIER, **M. Mubarik**, S. Chakraborty, S. Kishore, R. Kumar, **ISCA 2022**
 * Printed Machine Learning Classifiers <br /> 
 **M. Mubarik**, D. Weller, N. BLEIER, M. Tomei, M. J. Aghassi-Hagmann, M. Tahoori, R. Kumar, [paper](https://ieeexplore.ieee.org/abstract/document/9251954), **MICRO 2020, IEEE Micro Top Picks - Honorable Mention 2021.**
 * Printed Microprocessors <br />

@@ -20,6 +20,8 @@ and Emerging Technologies/Applications.
 
 ## News
 
+* **<span style="color: #084780;">[March 2022]</span>** 
+Rethinking Programmable Earable Processors paper accepted at ISCA 2022. 
 * **<span style="color: #084780;">[May 2021]</span>** 
 I've joined the Heterogeneous Platforms Labs at [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html) as a Graduate Research Intern. 
 * **<span style="color: #084780;">[December 2020]</span>** 

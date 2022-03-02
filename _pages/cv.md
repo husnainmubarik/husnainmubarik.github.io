@@ -28,7 +28,7 @@ Research and Work Experience
     * Hardware support for video interpolation and denoising - ongoing. 
     * DHPVM: Distributed Heterogeneous Parallel Virtual Machine (CS598LCE)
     * Outer Product CPU Instruction for Accelerator-level Neural Network Computation Throughput (CS498ME)
-    * Rethinking Earable Processors 
+    * Rethinking Programmable Earable Processors **ISCA2022**
     * Model-specific Design of Deeply-Embedded Tiny Neural Network Accelerators (Ongoing)
     * Printed Machine Learning Classifiers **MICRO2020**
     * Printed Microprocessors **ISCA2020**
@@ -47,6 +47,8 @@ Skills
 
 Publications
 ======
+* Rethinking Programmable Earable Processors <br /> 
+N. BLEIER, **M. Mubarik**, S. Chakraborty, S. Kishore, R. Kumar, **ISCA 2022**
 * Printed Machine Learning Classifiers <br /> 
 **M. Mubarik**, D. Weller, N. BLEIER, M. Tomei, M. J. Aghassi-Hagmann, M. Tahoori, R. Kumar, [paper](https://ieeexplore.ieee.org/abstract/document/9251954), **MICRO 2020, IEEE Micro Top Picks - Honorable Mention 2021.**
 * Printed Microprocessors <br />
@@ -62,8 +64,9 @@ Courses
 * ECE-524/CS-563:  Advanced Computer Security (Adam Bates).
 * CS498ME Architecture for Mobile and Edge Computing (Saugata Ghose).
 * CS598LCE Languages and Compilers for Edge Computing (Vikram S. Adve).
-* ECE598MS: Advanced Memory and Storage Systems (Jian Huang) - ongoing.
-* CS598DWH: 3D Vision (Derek W Hoiem) - ongoing.
+* ECE598MS: Advanced Memory and Storage Systems (Jian Huang).
+* CS598DWH: 3D Vision (Derek W Hoiem).
+* CS534: Advanced Topics in Computer Architecture (Sarita Adve).
 
 Acaemic Achievements and Awards
 ======
