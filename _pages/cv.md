@@ -17,7 +17,7 @@ Education
 
 Research and Work Experience
 ======
-* Intel Labs - Cloud Systems Research (CSR) Lab, USA. Dec 2021 - **Present**. 
+* Intel Labs - Cloud System Research Lab, USA. Dec 2021 - **Present**. 
   * Graduate Research Intern (part time), Manager: [Nilesh Jain](https://www.intel.com/content/www/us/en/research/researchers/nilesh-jain.html)
     * Providing hardware support for accelerating Neural Radiance Fields.
 * Intel Labs - Heterogeneous Platforms Lab (HPL), USA. May 2021 - Aug 2021. 
