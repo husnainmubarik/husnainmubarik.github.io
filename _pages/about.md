@@ -22,7 +22,7 @@ and Emerging Technologies/Applications.
 ## News
 
 * **<span style="color: #084780;">[March 2022]</span>** 
-Rethinking Programmable Earable Processors paper accepted at ISCA 2022. 
+Our **Rethinking Programmable Earable Processors** paper got accepted at **ISCA 2022**. 
 * **<span style="color: #084780;">[Dec 2021]</span>** 
 I've joined the Cloud Systems Research Lab at [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html) as a Part-time Graduate Research Intern. 
 * **<span style="color: #084780;">[May 2021]</span>** 
@@ -34,9 +34,9 @@ Printed Machine Learning Classifiers paper selected as IEEE Micro Top Picks - Ho
 * **<span style="color: #084780;">[October 2020]</span>** 
 Printed Machine Learning Classifiers paper presented at MICRO 2020 [VIDEO](https://www.youtube.com/watch?v=RzE-ThPiMxI). 
 * **<span style="color: #084780;">[July 2020]</span>** 
-Printed Machine Learning Classifiers paper accepted at MICRO 2020. 
+Our **Printed Machine Learning Classifiers** paper got accepted at **MICRO 2020**. 
 * **<span style="color: #084780;">[March 2020]</span>** 
-Printed Microprocessors paper accepted at ISCA 2020. 
+Our **Printed Microprocessors** paper got accepted at **ISCA 2020**. 
 * **<span style="color: #084780;">[January 2019]</span>** 
 Joined the [PASSAT](https://passat.crhc.illinois.edu/) group at UIUC supervised by Dr. Rakesh Kumar. 
 * **<span style="color: #084780;">[January 2019]</span>** 
