@@ -18,10 +18,10 @@ Education
 Research and Work Experience
 ======
 * Intel Labs - Cloud System Research Lab, USA. Dec 2021 - **Present**. 
-  * Graduate Research Intern (part time), Manager: [Nilesh Jain](https://www.intel.com/content/www/us/en/research/researchers/nilesh-jain.html)
+  * Graduate Research Intern (Part-time), Manager: [Nilesh Jain](https://www.intel.com/content/www/us/en/research/researchers/nilesh-jain.html)
     * Providing hardware support for accelerating Neural Radiance Fields.
 * Intel Labs - Heterogeneous Platforms Lab (HPL), USA. May 2021 - Aug 2021. 
-  * Graduate Research Intern (full time), Manager: [Tanay Karnik](https://www.intel.com/content/www/us/en/research/researchers/tanay-karnik.html)
+  * Graduate Research Intern (Full-time), Manager: [Tanay Karnik](https://www.intel.com/content/www/us/en/research/researchers/tanay-karnik.html)
     * Render aware super-resolution. 
       * Understanding the impacts of super resolution in the context of end-to-end latency of cloud gaming.
       * Providing hardware support for accelerating deep learning based super resolution.
