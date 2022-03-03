@@ -21,7 +21,7 @@ Research and Work Experience
   * Graduate Research Intern (part time), Manager: [Nilesh Jain](https://www.intel.com/content/www/us/en/research/researchers/nilesh-jain.html)
     * Providing hardware support for accelerating Neural Radiance Fields.
 * Intel Labs - Heterogeneous Platforms Lab (HPL), USA. May 2021 - Aug 2021. 
-  * Graduate Research Intern, Manager: [Tanay Karnik](https://www.intel.com/content/www/us/en/research/researchers/tanay-karnik.html)
+  * Graduate Research Intern (full time), Manager: [Tanay Karnik](https://www.intel.com/content/www/us/en/research/researchers/tanay-karnik.html)
     * Render aware super-resolution. 
       * Understanding the impacts of super resolution in the context of end-to-end latency of cloud gaming.
       * Providing hardware support for accelerating deep learning based super resolution.
