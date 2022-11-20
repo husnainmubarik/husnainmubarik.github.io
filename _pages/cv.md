@@ -17,7 +17,11 @@ Education
 
 Research and Work Experience
 ======
-* Intel Labs - Cloud System Research Lab, USA. Dec 2021 - **Present**. 
+* Intel Labs - Heterogeneous Platforms Lab (HPL), USA. Aug 2022 - **Present**. 
+  * Graduate Research Intern (Part-time), Manager: [Maxim Kazakov](https://scholar.google.ru/citations?user=D3J_P-IAAAAJ&hl=en)
+* Intel Labs - Graphics research organization (GRO), USA. May 2022 - Aug 2022. 
+  * Graduate Research Intern (Full-time), Manager: [Anton Kaplanyan](http://kaplanyan.com/)
+* Intel Labs - Cloud System Research Lab, USA. Dec 2021 - May 2022. 
   * Graduate Research Intern (Part-time), Manager: [Nilesh Jain](https://www.intel.com/content/www/us/en/research/researchers/nilesh-jain.html)
     * Providing hardware support for accelerating Neural Radiance Fields.
 * Intel Labs - Heterogeneous Platforms Lab (HPL), USA. May 2021 - Aug 2021. 
@@ -28,7 +32,8 @@ Research and Work Experience
       * Designing compiler (scheduler) for evaluating the super resolution workloads on the custom accelerator. 
 * Coordinated Science Laboratory (CSL), UIUC, USA. Jan 2019 - **Present**
   * Research Assistant, Advisor: Rakesh Kumar
-    * Hardware support for video interpolation and denoising - ongoing. 
+    * Hardware support for Neural Graphics - ongoing. 
+    * Exploiting Short Application Lifetimes for Low Cost Hardware Encryption in Flexible Electronics - **DATE2023**
     * DHPVM: Distributed Heterogeneous Parallel Virtual Machine (CS598LCE)
     * Outer Product CPU Instruction for Accelerator-level Neural Network Computation Throughput (CS498ME)
     * Rethinking Programmable Earable Processors **ISCA2022**
@@ -50,6 +55,8 @@ Skills
 
 Publications
 ======
+* Exploiting Short Application Lifetimes for Low Cost Hardware Encryption in Flexible Electronics <br /> 
+N. BLEIER, **M. Mubarik**, S. Balaji, F. Rodriguez, A. Sou, S. White and R. Kumar, **DATE 2023**
 * Rethinking Programmable Earable Processors <br /> 
 N. BLEIER, **M. Mubarik**, S. Chakraborty, S. Kishore, R. Kumar, **ISCA 2022**
 * Printed Machine Learning Classifiers <br /> 
