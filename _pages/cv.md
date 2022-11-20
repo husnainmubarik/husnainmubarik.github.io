@@ -17,8 +17,8 @@ Education
 
 Research and Work Experience
 ======
-* Intel Labs - Heterogeneous Platforms Lab (HPL), USA. Aug 2022 - **Present**. 
-  * Graduate Research Intern (Part-time), Manager: [Maxim Kazakov](https://scholar.google.ru/citations?user=D3J_P-IAAAAJ&hl=en)
+* Intel Labs - Next-Gen Architecture (NGA), USA. Aug 2022 - **Present**. 
+  * Graduate Research Intern (Part-time), Manager: [Maxim Kazakov](https://www.linkedin.com/in/max-kazakov-3725552/)
 * Intel Labs - Graphics research organization (GRO), USA. May 2022 - Aug 2022. 
   * Graduate Research Intern (Full-time), Manager: [Anton Kaplanyan](http://kaplanyan.com/)
 * Intel Labs - Cloud System Research Lab, USA. Dec 2021 - May 2022. 
