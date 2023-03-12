@@ -7,7 +7,7 @@ redirect_from:
   - /projects.html
 ---
 
-* Hardware support for Neural Graphics - ongoing.
+* Hardware Acceleration of Neural Graphics - **ISCA2023**
 * Exploiting Short Application Lifetimes for Low Cost Hardware Encryption in Flexible Electronics - **DATE2023**
 * Render Aware Super Resolution - ongoing. 
 * DHPVM: Distributed Heterogeneous Parallel Virtual Machine - CS598LCE Spring21 - [Slides](https://husnainmubarik.github.io/files/CS598LCE.pdf)

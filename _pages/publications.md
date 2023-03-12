@@ -6,6 +6,8 @@ redirect_from:
   - /md/
   - /publications.html
 ---
+* Hardware Acceleration of Neural Graphics <br /> 
+**M. Mubarik**, R. Kanungo, T. Zirr and R. Kumar, **ISCA 2023**
 * Exploiting Short Application Lifetimes for Low Cost Hardware Encryption in Flexible Electronics <br /> 
 N. BLEIER, **M. Mubarik**, S. Balaji, F. Rodriguez, A. Sou, S. White and R. Kumar, **DATE 2023**
 * Rethinking Programmable Earable Processors <br /> 

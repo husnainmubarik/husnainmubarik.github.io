@@ -32,7 +32,7 @@ Research and Work Experience
       * Designing compiler (scheduler) for evaluating the super resolution workloads on the custom accelerator. 
 * Coordinated Science Laboratory (CSL), UIUC, USA. Jan 2019 - **Present**
   * Research Assistant, Advisor: Rakesh Kumar
-    * Hardware support for Neural Graphics - ongoing. 
+    * Hardware Acceleration of Neural Graphics - **ISCA2023** 
     * Exploiting Short Application Lifetimes for Low Cost Hardware Encryption in Flexible Electronics - **DATE2023**
     * DHPVM: Distributed Heterogeneous Parallel Virtual Machine (CS598LCE)
     * Outer Product CPU Instruction for Accelerator-level Neural Network Computation Throughput (CS498ME)
@@ -55,6 +55,8 @@ Skills
 
 Publications
 ======
+* Hardware Acceleration of Neural Graphics <br /> 
+**M. Mubarik**, R. Kanungo, T. Zirr and R. Kumar, **ISCA 2023**
 * Exploiting Short Application Lifetimes for Low Cost Hardware Encryption in Flexible Electronics <br /> 
 N. BLEIER, **M. Mubarik**, S. Balaji, F. Rodriguez, A. Sou, S. White and R. Kumar, **DATE 2023**
 * Rethinking Programmable Earable Processors <br /> 
