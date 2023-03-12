@@ -12,11 +12,12 @@ I'm a PhD candidate in the [Electrical and Computer Engineering](https://ece.ill
 department at the [University of Illinois at Urbana Champaign](https://illinois.edu/), 
 advised by Prof. [Rakesh Kumar](https://passat.crhc.illinois.edu/). 
 My research interests are generally in the areas of Hardware Systems and Computer 
-Architecture. Particularly, I'm interested in Machine Learning Accelerators, 
+Architecture. Particularly, I'm interested in 
+Hardware Acceleration of Neural Graphics, 
 Low Power and Energy Efficient Graphics, 
-HW Acceleration of Graphics/Vision Applications, 
-Heterogeneous Parallel Systems, Earable Computing, 
-Distributed Computing, Digital IC Design, Printed Computer Systems 
+Machine Learning Accelerators, 
+Heterogeneous Parallel Systems, 
+Flexible Computer Systems 
 and Emerging Technologies/Applications.
 
 ## News
