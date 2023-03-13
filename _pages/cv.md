@@ -83,7 +83,8 @@ Courses
 Acaemic Achievements and Awards
 ======
 * **IEEE Micro Top Picks - Honorable Mention 2021**.
-* Prime Minister’s Silver Medal2018, NUST-CEME.
+* Prime Minister’s Silver Medal, 2018, NUST-CEME.
+* Travel award for EECamp at KAIST, 2018, South Korea.
 * NECOP Fellowship 2014-2017.
 * High Achievers Award, NUST-CEME.
 * Golden Star Award, NUST-CEME.
