@@ -23,7 +23,7 @@ and Emerging Technologies/Applications.
 ## News
 
 * **<span style="color: #084780;">[Mar 2023]</span>** 
-Pre-print of our **Hardware Acceleration of Neural Graphics** paper is available at [arXiv](https://arxiv.org/abs/2303.05735). 
+The preprint of our **Hardware Acceleration of Neural Graphics** paper is available at [arXiv](https://arxiv.org/abs/2303.05735). 
 * **<span style="color: #084780;">[Mar 2023]</span>** 
 Our **Hardware Acceleration of Neural Graphics** paper got accepted at **ISCA 2023**. 
 * **<span style="color: #084780;">[Oct 2022]</span>** 
