@@ -34,7 +34,7 @@ Research and Work Experience
   * Research Assistant, Advisor: Rakesh Kumar
     * Hardware Acceleration of Neural Graphics - **ISCA2023** 
     * Exploiting Short Application Lifetimes for Low Cost Hardware Encryption in Flexible Electronics - **DATE2023**
-    * DHPVM: Distributed Heterogeneous Parallel Virtual Machine (CS598LCE)
+    * DHPVM: Distributed Heterogeneous Parallel Virtual Machine (CS598LCE) - [Slides](https://husnainmubarik.github.io/files/CS598LCE.pdf)
     * Outer Product CPU Instruction for Accelerator-level Neural Network Computation Throughput (CS498ME)
     * Rethinking Programmable Earable Processors **ISCA2022**
     * Model-specific Design of Deeply-Embedded Tiny Neural Network Accelerators (Ongoing)
@@ -66,6 +66,21 @@ N. BLEIER, **M. Mubarik**, S. Chakraborty, S. Kishore, R. Kumar, [paper](https:/
 * Printed Microprocessors <br />
 N. Bleier, **M. Mubarik**, F. Rasheed, J. Aghassi-Hagmann, M. Tahoori, and R. Kumar, [paper](https://ieeexplore.ieee.org/abstract/document/9138931), **ISCA 2020** 
 
+
+Talks
+======
+* "Printed Machine Learning Classifiers" paper presented at MICRO 2020 [VIDEO](https://www.youtube.com/watch?v=RzE-ThPiMxI).
+* Gave a talk on "Hardware for Deep Learning" at ECE511: Advanced Computer Architecture class at UIUC [2021]. [Slides](https://husnainmubarik.github.io/files/DLinHW511.pdf)
+
+Acaemic Achievements and Awards
+======
+* **IEEE Micro Top Picks - Honorable Mention 2021**.
+* Prime Minister’s Silver Medal2018, NUST-CEME.
+* NECOP Fellowship 2014-2017.
+* High Achievers Award, NUST-CEME.
+* Golden Star Award, NUST-CEME.
+* NUST GPA scholarships 2013-2017.
+
 Courses
 ======
 * ECE-598NSG: Deep Learning in Hardware (Naresh Shanbhag).
@@ -79,12 +94,3 @@ Courses
 * ECE598MS: Advanced Memory and Storage Systems (Jian Huang).
 * CS598DWH: 3D Vision (Derek W Hoiem).
 * CS534: Advanced Topics in Computer Architecture (Sarita Adve).
-
-Acaemic Achievements and Awards
-======
-* **IEEE Micro Top Picks - Honorable Mention 2021**.
-* Prime Minister’s Silver Medal2018, NUST-CEME.
-* NECOP Fellowship 2014-2017.
-* High Achievers Award, NUST-CEME.
-* Golden Star Award, NUST-CEME.
-* NUST GPA scholarships 2013-2017.
