@@ -23,6 +23,8 @@ and Emerging Technologies/Applications.
 ## News
 
 * **<span style="color: #084780;">[Mar 2023]</span>** 
+The preprint of our **Hardware Acceleration of Neural Graphics** paper is available at [arXiv](https://arxiv.org/abs/2303.05735). 
+* **<span style="color: #084780;">[Mar 2023]</span>** 
 Our **Hardware Acceleration of Neural Graphics** paper got accepted at **ISCA 2023**. 
 * **<span style="color: #084780;">[Oct 2022]</span>** 
 Our **Exploiting Short Application Lifetimes for Low Cost Hardware Encryption in Flexible Electronics** paper got accepted at **DATE 2023**. 
