@@ -6,6 +6,8 @@ redirect_from:
   - /hobbies.html
 ---
 
+## Hobbies
+
 ## Reading Recommendations
 Please visit my [goodreads](https://www.goodreads.com/user/show/126347827-husnain-mubarik) account.
 
