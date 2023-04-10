@@ -6,6 +6,8 @@ redirect_from:
   - /hobbies.html
 ---
 
+{% include base_path %}
+
 Hobbies
 ======
 
