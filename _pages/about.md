@@ -22,6 +22,8 @@ and Emerging Technologies/Applications.
 
 ## News
 
+* **<span style="color: #084780;">[April 2023]</span>** 
+The camera ready version of our **Hardware Acceleration of Neural Graphics** paper is available at [NG\_camera\_ready](https://husnainmubarik.github.io/files/isca_2023.pdf). 
 * **<span style="color: #084780;">[Mar 2023]</span>** 
 The preprint of our **Hardware Acceleration of Neural Graphics** paper is available at [arXiv](https://arxiv.org/abs/2303.05735). 
 * **<span style="color: #084780;">[Mar 2023]</span>** 
