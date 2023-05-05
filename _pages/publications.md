@@ -18,5 +18,6 @@ N. BLEIER, **M. Mubarik**, S. Chakraborty, S. Kishore, R. Kumar, [paper](https:/
 N. Bleier, **M. Mubarik**, F. Rasheed, J. Aghassi-Hagmann, M. Tahoori, and R. Kumar, [paper](https://ieeexplore.ieee.org/abstract/document/9138931), **ISCA 2020** 
 
 ## Talks 
+* Gave a talk on "Neural Graphics: An Architceture’s Perspective" at ECE498SJP: Accelerator Architectures class at UIUC [2023]. [Slides](https://husnainmubarik.github.io/files/ece498SJPNG.pdf)
 * Presented "Printed Machine Learning Classifiers" paper at MICRO 2020 [VIDEO](https://www.youtube.com/watch?v=RzE-ThPiMxI).
 * Gave a talk on "Hardware for Deep Learning" at ECE511: Advanced Computer Architecture class at UIUC [2021]. [Slides](https://husnainmubarik.github.io/files/DLinHW511.pdf)
