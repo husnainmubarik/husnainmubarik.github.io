@@ -106,13 +106,4 @@ Courses
 * ECE598MS: Advanced Memory and Storage Systems (Jian Huang).
 * CS598DWH: 3D Vision (Derek W Hoiem).
 * CS534: Advanced Topics in Computer Architecture (Sarita Adve).
-
-Acaemic Achievements and Awards
-======
-* **IEEE Micro Top Picks - Honorable Mention 2021**.
-* Prime Minister’s Silver Medal, 2018, NUST-CEME.
-* Travel award for EECamp at KAIST, 2018, South Korea.
-* NECOP Fellowship 2014-2017.
-* High Achievers Award, NUST-CEME.
-* Golden Star Award, NUST-CEME.
-* NUST GPA scholarships 2013-2017.
+* ECE498SJP: Accelerator Architectures (Sanjay Patel).
