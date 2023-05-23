@@ -6,6 +6,8 @@ redirect_from:
   - /md/
   - /publications.html
 ---
+* Understanding Interactions Between Chip Architecture and Uncertainties in Semiconductor Supply and Demand <br /> 
+R. Kanungo, S. Swamy, N. Bleier, **M. Mubarik** and R. Kumar, [arXiv preprint](https://arxiv.org/abs/2305.11059). 
 * Hardware Acceleration of Neural Graphics <br /> 
 **M. Mubarik**, R. Kanungo, T. Zirr and R. Kumar, **ISCA 2023** [NG\_camera\_ready](https://husnainmubarik.github.io/files/isca_2023.pdf), [arXiv preprint](https://arxiv.org/abs/2303.05735). 
 * Exploiting Short Application Lifetimes for Low Cost Hardware Encryption in Flexible Electronics <br /> 

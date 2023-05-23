@@ -17,13 +17,18 @@ Education
 
 Research and Work Experience
 ======
-* Intel Labs - Next-Gen Architecture (NGA), USA. Aug 2022 - **Present**. 
-  * Graduate Research Intern (Part-time), Manager: [Maxim Kazakov](https://www.linkedin.com/in/max-kazakov-3725552/)
-* Intel Labs - Graphics research organization (GRO), USA. May 2022 - Aug 2022. 
+* Intel - Graphics research organization (GRO), USA. May 2023 - **Present**. 
   * Graduate Research Intern (Full-time), Manager: [Anton Kaplanyan](http://kaplanyan.com/)
+    * Hardware Acceleration of Stable Diffusion.
+* Intel - Next-Gen Architecture (NGA), USA. Aug 2022 - May 2023. 
+  * Graduate Research Intern (Part-time), Manager: [Maxim Kazakov](https://www.linkedin.com/in/max-kazakov-3725552/)
+    * Hardware Acceleration of Neural Graphics.
+* Intel - Graphics research organization (GRO), USA. May 2022 - Aug 2022. 
+  * Graduate Research Intern (Full-time), Manager: [Anton Kaplanyan](http://kaplanyan.com/)
+    * Hardware Acceleration of Neural Graphics.
 * Intel Labs - Cloud System Research Lab, USA. Dec 2021 - May 2022. 
   * Graduate Research Intern (Part-time), Manager: [Nilesh Jain](https://www.intel.com/content/www/us/en/research/researchers/nilesh-jain.html)
-    * Providing hardware support for accelerating Neural Radiance Fields.
+    * Hardware Acceleration of Neural Radiance Fields.
 * Intel Labs - Heterogeneous Platforms Lab (HPL), USA. May 2021 - Aug 2021. 
   * Graduate Research Intern (Full-time), Manager: [Tanay Karnik](https://www.intel.com/content/www/us/en/research/researchers/tanay-karnik.html)
     * Render aware super-resolution. 
@@ -32,7 +37,9 @@ Research and Work Experience
       * Designing compiler (scheduler) for evaluating the super resolution workloads on the custom accelerator. 
 * Coordinated Science Laboratory (CSL), UIUC, USA. Jan 2019 - **Present**
   * Research Assistant, Advisor: Rakesh Kumar
-    * Hardware Acceleration of Neural Graphics - **ISCA2023** 
+    * Hardware Acceleration of Stable Diffusion - (Ongoing). 
+    * Understanding Interactions Between Chip Architecture and Uncertainties in Semiconductor Supply and Demand - (Undersubmission).
+    * Hardware Acceleration of Neural Graphics - **ISCA2023**
     * Exploiting Short Application Lifetimes for Low Cost Hardware Encryption in Flexible Electronics - **DATE2023**
     * DHPVM: Distributed Heterogeneous Parallel Virtual Machine (CS598LCE) - [Slides](https://husnainmubarik.github.io/files/CS598LCE.pdf)
     * Outer Product CPU Instruction for Accelerator-level Neural Network Computation Throughput (CS498ME)
@@ -55,6 +62,8 @@ Skills
 
 Publications
 ======
+* Understanding Interactions Between Chip Architecture and Uncertainties in Semiconductor Supply and Demand <br /> 
+R. Kanungo, S. Swamy, N. Bleier, **M. Mubarik** and R. Kumar, [arXiv preprint](https://arxiv.org/abs/2305.11059). 
 * Hardware Acceleration of Neural Graphics <br /> 
 **M. Mubarik**, R. Kanungo, T. Zirr and R. Kumar, **ISCA 2023**
 * Exploiting Short Application Lifetimes for Low Cost Hardware Encryption in Flexible Electronics <br /> 
@@ -75,6 +84,8 @@ Talks
 
 Acaemic Achievements and Awards
 ======
+* **Machine Learning and Systems Rising Star 2023**.
+	* Harvard, Google, Nvidia and [MLCommons](https://mlcommons.org/en/rising-stars-2023/).
 * **IEEE Micro Top Picks - Honorable Mention 2021**.
 * Prime Minister’s Silver Medal2018, NUST-CEME.
 * NECOP Fellowship 2014-2017.

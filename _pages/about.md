@@ -22,6 +22,10 @@ and Emerging Technologies/Applications.
 
 ## News
 * **<span style="color: #084780;">[May 2023]</span>** 
+Selected as Machine Learning and Systems Rising Star 2023 - Harvard, Google, Nvidia and [MLCommons](https://mlcommons.org/en/rising-stars-2023/).
+* **<span style="color: #084780;">[May 2023]</span>** 
+The preprint of our paper titled **Understanding Interactions Between Chip Architecture and Uncertainties in Semiconductor Supply and Demand** is now available at [arXiv](https://arxiv.org/abs/2305.11059).
+* **<span style="color: #084780;">[May 2023]</span>** 
 Gave a talk on "Neural Graphics: An Architecture’s Perspective" at ECE498SJP: Accelerator Architectures class at UIUC. [Slides](https://husnainmubarik.github.io/files/ece498SJPNG.pdf).
 * **<span style="color: #084780;">[April 2023]</span>** 
 The camera ready version of our **Hardware Acceleration of Neural Graphics** paper is available at [NG\_camera\_ready](https://husnainmubarik.github.io/files/isca_2023.pdf). 
