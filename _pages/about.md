@@ -21,6 +21,8 @@ Flexible Computer Systems
 and Emerging Technologies/Applications.
 
 ## News
+* **<span style="color: #084780;">[May 2023]</span>**
+Selected for the retrospective of the years 1996 through 2020 on the 50th anniversary of ISCA for our paper "Printed Microprocessors" (ISCA-47th, 2020).
 * **<span style="color: #084780;">[May 2023]</span>** 
 Selected as **Machine Learning and Systems Rising Star 2023** - Harvard, Google, Nvidia and [MLCommons](https://mlcommons.org/en/rising-stars-2023/).
 * **<span style="color: #084780;">[May 2023]</span>** 
