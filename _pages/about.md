@@ -24,7 +24,7 @@ and Emerging Technologies/Applications.
 * **<span style="color: #084780;">[May 2023]</span>**
 Selected for the retrospective of the years 1996 through 2020 on the 50th anniversary of ISCA for our paper "Printed Microprocessors" (ISCA-47th, 2020).
 * **<span style="color: #084780;">[May 2023]</span>** 
-Selected as **Machine Learning and Systems Rising Star 2023** - Harvard, Google, Nvidia and [MLCommons](https://mlcommons.org/en/rising-stars-2023/).
+Selected as **Machine Learning and Systems Rising Star** - Harvard, Google, Nvidia and [MLCommons](https://mlcommons.org/en/rising-stars-2023/).
 * **<span style="color: #084780;">[May 2023]</span>** 
 The preprint of our paper titled **Understanding Interactions Between Chip Architecture and Uncertainties in Semiconductor Supply and Demand** is now available at [arXiv](https://arxiv.org/abs/2305.11059).
 * **<span style="color: #084780;">[May 2023]</span>** 
