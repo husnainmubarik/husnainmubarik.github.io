@@ -65,7 +65,7 @@ Publications
 * Understanding Interactions Between Chip Architecture and Uncertainties in Semiconductor Supply and Demand <br /> 
 R. Kanungo, S. Swamy, N. Bleier, **M. Mubarik** and R. Kumar, [arXiv preprint](https://arxiv.org/abs/2305.11059). 
 * Hardware Acceleration of Neural Graphics <br /> 
-**M. Mubarik**, R. Kanungo, T. Zirr and R. Kumar, **ISCA-50th, 2023**
+**M. Mubarik**, R. Kanungo, T. Zirr and R. Kumar, **ISCA-50th, 2023** [paper](https://dl.acm.org/doi/abs/10.1145/3579371.3589085), [local-pdf](https://husnainmubarik.github.io/files/isca_2023.pdf), [arXiv preprint](https://arxiv.org/abs/2303.05735), [SLIDES](https://husnainmubarik.github.io/files/isca2023NG_copy.pptx), [Lightning-talk](https://www.youtube.com/watch?v=4KK4MNr-IBI&ab_channel=ACMSIGARCH).
 * Exploiting Short Application Lifetimes for Low Cost Hardware Encryption in Flexible Electronics <br /> 
 N. BLEIER, **M. Mubarik**, S. Balaji, F. Rodriguez, A. Sou, S. White and R. Kumar, **DATE 2023**
 * Rethinking Programmable Earable Processors <br /> 
@@ -78,6 +78,7 @@ N. Bleier, **M. Mubarik**, F. Rasheed, J. Aghassi-Hagmann, M. Tahoori, and R. Ku
 
 Talks
 ======
+* Presented "Hardware Acceleration of Neural Graphics" paper at ISCA 2023 [SLIDES](https://husnainmubarik.github.io/files/isca2023NG_copy.pptx), [Lightning-talk](https://www.youtube.com/watch?v=4KK4MNr-IBI&ab_channel=ACMSIGARCH).
 * Gave a talk on "Neural Graphics: An Architecture’s Perspective" at ECE498SJP: Accelerator Architectures class at UIUC [2023]. [Slides](https://husnainmubarik.github.io/files/ece498SJPNG.pdf)
 * Presented "Printed Machine Learning Classifiers" paper at MICRO 2020 [VIDEO](https://www.youtube.com/watch?v=RzE-ThPiMxI).
 * Gave a talk on "Hardware for Deep Learning" at ECE511: Advanced Computer Architecture class at UIUC [2021]. [Slides](https://husnainmubarik.github.io/files/DLinHW511.pdf)
