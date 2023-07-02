@@ -21,6 +21,8 @@ Flexible Computer Systems
 and Emerging Technologies/Applications.
 
 ## News
+* **<span style="color: #084780;">[July 2023]</span>**
+The two-page retrospective that we composed for our paper on "Printed Microprocessors" for the ISCA-50th 25-year (1996-2020) retrospective is now accessible online at [isca-retrospective](https://bpb-us-w2.wpmucdn.com/sites.coecis.cornell.edu/dist/7/587/files/2023/06/Kumar_2020_Printed.pdf). 
 * **<span style="color: #084780;">[June 2023]</span>**
 Presented "Hardware Acceleration of Neural Graphics" paper at ISCA 2023 [SLIDES](https://husnainmubarik.github.io/files/isca2023NG_copy.pptx), [Lightning-talk](https://www.youtube.com/watch?v=4KK4MNr-IBI&ab_channel=ACMSIGARCH).
 * **<span style="color: #084780;">[May 2023]</span>**
