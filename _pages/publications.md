@@ -17,7 +17,8 @@ N. BLEIER, **M. Mubarik**, S. Chakraborty, S. Kishore, R. Kumar, [paper](https:/
 * Printed Machine Learning Classifiers <br /> 
 **M. Mubarik**, D. Weller, N. BLEIER, M. Tomei, M. J. Aghassi-Hagmann, M. Tahoori, R. Kumar, [paper](https://ieeexplore.ieee.org/abstract/document/9251954), **MICRO-53rd, 2020**, IEEE Micro Top Picks - Honorable Mention 2021.
 * Printed Microprocessors <br />
-N. Bleier, **M. Mubarik**, F. Rasheed, J. Aghassi-Hagmann, M. Tahoori, and R. Kumar, [paper](https://ieeexplore.ieee.org/abstract/document/9138931), **ISCA-47th, 2020** - Selected for the retrospective of the years 1996 through 2020 on the 50th anniversary of ISCA (ISCA-50th, 2023).  
+N. Bleier, **M. Mubarik**, F. Rasheed, J. Aghassi-Hagmann, M. Tahoori, and R. Kumar, [paper](https://ieeexplore.ieee.org/abstract/document/9138931), **ISCA-47th, 2020** - 
+<span style="color: red;"> Selected for the retrospective of the years 1996 through 2020 on the 50th anniversary of ISCA (ISCA-50th, 2023).</span>  
 
 ## Talks 
 * Presented "Hardware Acceleration of Neural Graphics" paper at ISCA 2023 [SLIDES](https://husnainmubarik.github.io/files/isca2023NG_copy.pptx), [Lightning-talk](https://www.youtube.com/watch?v=4KK4MNr-IBI&ab_channel=ACMSIGARCH).
