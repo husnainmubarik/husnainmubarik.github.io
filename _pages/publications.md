@@ -15,7 +15,8 @@ N. BLEIER, **M. Mubarik**, S. Balaji, F. Rodriguez, A. Sou, S. White and R. Kuma
 * Rethinking Programmable Earable Processors <br /> 
 N. BLEIER, **M. Mubarik**, S. Chakraborty, S. Kishore, R. Kumar, [paper](https://dl.acm.org/doi/abs/10.1145/3470496.3527396), **ISCA-49th, 2022**
 * Printed Machine Learning Classifiers <br /> 
-**M. Mubarik**, D. Weller, N. BLEIER, M. Tomei, M. J. Aghassi-Hagmann, M. Tahoori, R. Kumar, [paper](https://ieeexplore.ieee.org/abstract/document/9251954), **MICRO-53rd, 2020**, IEEE Micro Top Picks - Honorable Mention 2021.
+**M. Mubarik**, D. Weller, N. BLEIER, M. Tomei, M. J. Aghassi-Hagmann, M. Tahoori, R. Kumar, [paper](https://ieeexplore.ieee.org/abstract/document/9251954), **MICRO-53rd, 2020**, 
+<span style="color: red;"> IEEE Micro Top Picks - Honorable Mention 2021.</span>
 * Printed Microprocessors <br />
 N. Bleier, **M. Mubarik**, F. Rasheed, J. Aghassi-Hagmann, M. Tahoori, and R. Kumar, [paper](https://ieeexplore.ieee.org/abstract/document/9138931), **ISCA-47th, 2020** - 
 <span style="color: red;"> Selected for the retrospective of the years 1996 through 2020 on the 50th anniversary of ISCA (ISCA-50th, 2023).</span>  
