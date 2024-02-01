@@ -21,6 +21,8 @@ Flexible Computer Systems
 and Emerging Technologies/Applications.
 
 ## News
+* **<span style="color: #084780;">[February 2024]</span>** 
+Space Microdatacenters paper selected as IEEE Micro Top Picks - Honorable Mention 2024. 
 * **<span style="color: #084780;">[July 2023]</span>** 
 Our paper titled **Space Microdatacenters** has been accepted at **MICRO-56th, 2023**. 
 * **<span style="color: #084780;">[July 2023]</span>**
