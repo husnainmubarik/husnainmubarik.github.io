@@ -21,6 +21,8 @@ Flexible Computer Systems
 and Emerging Technologies/Applications.
 
 ## News
+* **<span style="color: #084780;">[March 2024]</span>** 
+Selected to receive the **Dan Vivoli Endowed Fellowship** for the 2024-2025 academic year [Link](https://ece.illinois.edu/academics/grad/fellowships/vivoli).
 * **<span style="color: red;"> New: </span>** **<span style="color: #084780;">[February 2024]</span>** 
 Space Microdatacenters paper (MICRO 2023) is selected as **IEEE Micro Top Picks - Honorable Mention 2024**. 
 * **<span style="color: #084780;">[July 2023]</span>** 
