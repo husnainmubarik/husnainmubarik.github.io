@@ -8,20 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate in the [Electrical and Computer Engineering](https://ece.illinois.edu/) 
-department at the [University of Illinois at Urbana Champaign](https://illinois.edu/), 
-advised by Prof. [Rakesh Kumar](https://passat.crhc.illinois.edu/). 
-My research interests are generally in the areas of Hardware Systems and Computer 
-Architecture. Particularly, I'm interested in 
-Hardware Acceleration of Neural Graphics, 
-Low Power and Energy Efficient Graphics, 
-Machine Learning Accelerators, 
-Heterogeneous Parallel Systems, 
-Flexible Computer Systems 
-and Emerging Technologies/Applications.
+
+Husnain Mubarik is a Senior Member of Technical Staff in the [Advanced Rendering Research group at AMD](https://gpuopen.com/advanced-rendering-research/),
+specializing in Graphics and ML. 
+His expertise involves hardware acceleration for neural graphics and generative AI applications.
+His work has earned IEEE Micro Top Picks - Honorable Mentions and inclusion in [ISCA's 50-year retrospective](https://sites.coecis.cornell.edu/isca50retrospective/papers/).
+He was named a [Rising Star in Machine Learning and Systems in 2023](https://mlcommons.org/2023/07/introducing-the-2023-mlcommons-rising-stars/)
+and has received the prestigious Dan Vivoli Endowed Fellowship. 
+Husnain holds a Ph.D. in Electrical and Computer Engineering from the [University of Illinois at Urbana-Champaign](https://ece.illinois.edu/),
+where he completed his dissertation under the guidance of [Prof. Rakesh Kumar](https://passat.crhc.illinois.edu/),
+focusing on performance optimizations in neural graphics and emerging hardware systems.
 
 ## News
-* **<span style="color: red;"> New: </span>** **<span style="color: #084780;">[March 2024]</span>** 
+* **<span style="color: red;"> New: </span>** **<span style="color: #084780;">[May 2024]</span>** 
+I successfully defended my Ph.D. thesis titled "Hardware Acceleration of Neural Graphics" on May 6th, 2024.
+* **<span style="color: #084780;">[March 2024]</span>** 
 Selected to receive the **Dan Vivoli Endowed Fellowship** for the 2024-2025 academic year [Link](https://ece.illinois.edu/academics/grad/fellowships/vivoli).
 * **<span style="color: #084780;"> [February 2024]</span>** 
 Space Microdatacenters paper (MICRO 2023) is selected as **IEEE Micro Top Picks - Honorable Mention 2024**. 
