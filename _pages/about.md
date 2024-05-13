@@ -8,16 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-
 Husnain Mubarik is a Senior Member of Technical Staff in the [Advanced Rendering Research group at AMD](https://gpuopen.com/advanced-rendering-research/),
 specializing in Graphics and ML. 
 His expertise involves hardware acceleration for neural graphics and generative AI applications.
-His work has earned IEEE Micro Top Picks - Honorable Mentions and inclusion in [ISCA's 50-year retrospective](https://sites.coecis.cornell.edu/isca50retrospective/papers/).
+During his Ph.D., Husnain closely worked with research teams from [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html)
+as a research intern.
+His work has earned IEEE Micro Top Picks - Honorable Mentions and inclusion 
+in [ISCA's 50-year retrospective](https://sites.coecis.cornell.edu/isca50retrospective/papers/).
 He was named a [Rising Star in Machine Learning and Systems in 2023](https://mlcommons.org/2023/07/introducing-the-2023-mlcommons-rising-stars/)
-and has received the prestigious Dan Vivoli Endowed Fellowship. 
+and has received the prestigious Dan Vivoli Endowed Fellowship.
 Husnain holds a Ph.D. in Electrical and Computer Engineering from the [University of Illinois at Urbana-Champaign](https://ece.illinois.edu/),
-where he completed his dissertation under the guidance of [Prof. Rakesh Kumar](https://passat.crhc.illinois.edu/),
+where he completed his dissertation under the guidance of [Prof. Rakesh Kumar](https://passat.crhc.illinois.edu/), 
 focusing on performance optimizations in neural graphics and emerging hardware systems.
+Before joining UIUC as a Ph.D. candidate, Husnain completed his bachelor's in Electrical Engineering 
+from [National University of Sciences and Technology (NUST), Pakistan](https://nust.edu.pk/).
+
 
 ## News
 * **<span style="color: red;"> New: </span>** **<span style="color: #084780;">[May 2024]</span>** 
