@@ -25,7 +25,15 @@ from [National University of Sciences and Technology (NUST), Pakistan](https://n
 
 
 ## News
-* **<span style="color: red;"> New: </span>** **<span style="color: #084780;">[May 2024]</span>** 
+* **<span style="color: red;"> New: </span>** **<span style="color: #084780;">[June 2024]</span>**
+I have joined the [Advanced Rendering Research Group](https://gpuopen.com/advanced-rendering-research/) at AMD as a Senior Member of Technical Staff (SMTS) focusing on Graphics and ML. 
+* **<span style="color: #084780;">[June 2024]</span>** 
+I will be serving as a Program Committee (PC) member at the 31st International Symposium on High-Performance Computer Architecture (HPCA), 2025.
+* **<span style="color: #084780;">[May 2024]</span>** 
+We are oraganizing [ML and Systems Rising Stars Program](https://mlcommons.org/about-us/programs/). Please consider applying, 2024 - Present.
+* **<span style="color: #084780;">[May 2024]</span>** 
+We are organizing a workshop titled "Emerging Vision and Graphics Systems and Architectures (EVGA)", co-located with the 51st International Symposium on Computer Architecture (ISCA), 2024. Please, consider submitting your most interesting work on ML, vision, graphics and computer architecture. 
+* **<span style="color: #084780;">[May 2024]</span>** 
 I successfully defended my Ph.D. thesis titled "Hardware Acceleration of Neural Graphics" on May 6th, 2024.
 * **<span style="color: #084780;">[March 2024]</span>** 
 Selected to receive the **Dan Vivoli Endowed Fellowship** for the 2024-2025 academic year [Link](https://ece.illinois.edu/academics/grad/fellowships/vivoli).
