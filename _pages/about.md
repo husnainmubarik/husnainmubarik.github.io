@@ -30,11 +30,11 @@ I have joined the [Advanced Rendering Research Group](https://gpuopen.com/advanc
 * **<span style="color: #084780;">[June 2024]</span>** 
 I will be serving as a Program Committee (PC) member at the [31st International Symposium on High-Performance Computer Architecture (HPCA)](https://hpca-conf.org/2025/), 2025.
 * **<span style="color: #084780;">[May 2024]</span>** 
+I successfully defended my Ph.D. thesis titled "Hardware Acceleration of Neural Graphics" on May 6th, 2024.
+* **<span style="color: #084780;">[May 2024]</span>** 
 We are oraganizing [ML and Systems Rising Stars Program](https://mlcommons.org/about-us/programs/). Please consider applying.
 * **<span style="color: #084780;">[May 2024]</span>** 
 We are organizing a workshop titled "[Emerging Vision and Graphics Systems and Architectures (EVGA)](https://sites.google.com/view/evgaisca24)", co-located with the 51st International Symposium on Computer Architecture (ISCA), 2024. Please, consider submitting your most interesting work on ML, vision, graphics and computer architecture. 
-* **<span style="color: #084780;">[May 2024]</span>** 
-I successfully defended my Ph.D. thesis titled "Hardware Acceleration of Neural Graphics" on May 6th, 2024.
 * **<span style="color: #084780;">[March 2024]</span>** 
 Selected to receive the **Dan Vivoli Endowed Fellowship** for the 2024-2025 academic year [Link](https://ece.illinois.edu/academics/grad/fellowships/vivoli).
 * **<span style="color: #084780;"> [February 2024]</span>** 
