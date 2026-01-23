@@ -86,7 +86,7 @@ body.dark-mode .masthead__menu-item {
 }
 
 body.dark-mode .sidebar {
-  background-color: #2a2a2a;
+  background-color: #000000 !important;
 }
 
 body.dark-mode .author__avatar img {
@@ -96,6 +96,14 @@ body.dark-mode .author__avatar img {
 body.dark-mode .author__content,
 body.dark-mode .author__urls-wrapper {
   color: #e0e0e0;
+}
+
+body.dark-mode .author__name {
+  color: #ffffff !important;
+}
+
+body.dark-mode .author__bio {
+  color: #cccccc !important;
 }
 
 body.dark-mode .author__urls.social-icons a {
@@ -142,6 +150,19 @@ body.dark-mode .page__footer {
 body.dark-mode code {
   background-color: #2a2a2a;
   color: #e0e0e0;
+}
+
+/* Light mode - darken sidebar text */
+.author__name {
+  color: #000000 !important;
+}
+
+.author__bio {
+  color: #1a1a1a !important;
+}
+
+.author__urls-wrapper p {
+  color: #2a2a2a !important;
 }
 </style>
 
