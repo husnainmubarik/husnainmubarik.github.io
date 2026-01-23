@@ -8,15 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## 🎯 Current Role
-**Senior Member of Technical Staff** at [Advanced Rendering Research Group, AMD](https://gpuopen.com/advanced-rendering-research/)  
-*Specializing in Graphics and ML hardware acceleration for neural graphics and generative AI*
-
-## 🔬 Research Interests
-Neural Graphics • Hardware Acceleration • Generative AI • Computer Architecture • Graphics Systems • ML Systems • Emerging Technologies
-
----
-
 ## Short Bio
 
 Husnain Mubarik is a Senior Member of Technical Staff in the [Advanced Rendering Research group at AMD](https://gpuopen.com/advanced-rendering-research/), specializing in Graphics and ML. His expertise involves hardware acceleration for neural graphics and generative AI applications.

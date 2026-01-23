@@ -9,6 +9,9 @@ repository: "husnainmubarik/husnainmubarik.github.io"
 # Use remote theme instead of storing all theme files
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
+# Theme skin - default is light, can be changed to dark, contrast, etc.
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 # Site Author
 author:
   name: "Muhammad Husnain Mubarik"
