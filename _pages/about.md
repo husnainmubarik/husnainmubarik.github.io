@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<div class="bio-news-container">
+<div class="bio-news-container" markdown="1">
 
-<div class="bio-content">
+<div class="bio-content" markdown="1">
 
 ## Short Bio
 
@@ -21,7 +21,7 @@ Husnain holds a Ph.D. in Electrical and Computer Engineering from the [Universit
 
 </div>
 
-<div class="news-sidebar">
+<div class="news-sidebar" markdown="1">
 
 ## 📰 News
 
