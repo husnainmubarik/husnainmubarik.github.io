@@ -6,25 +6,44 @@
 
 /* Custom CSS overrides */
 
-/* Maximize content width while respecting sidebar layout */
+/* Override theme's max-width constraints completely */
 .layout--single {
-  .page {
-    @include breakpoint($large) {
-      float: right;
-      width: calc(100% - 300px);
-      padding-right: 2%;
+  @include breakpoint($large) {
+    .sidebar {
+      width: 250px;
+      float: left;
     }
-    @include breakpoint($x-large) {
-      width: calc(100% - 350px);
-      padding-right: 3%;
+    
+    .page {
+      float: right;
+      width: calc(100% - 270px);
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+  
+  @include breakpoint($x-large) {
+    .sidebar {
+      width: 300px;
+    }
+    
+    .page {
+      width: calc(100% - 320px);
     }
   }
 }
 
-.page__inner-wrap {
-  @include breakpoint($large) {
-    max-width: 100%;
-  }
+/* Remove all max-width constraints */
+.page__inner-wrap,
+.archive,
+.archive__item-body {
+  max-width: none !important;
+}
+
+/* Make content area fill available width */
+.page__content {
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
 /* Reduce overall font size */
@@ -60,17 +79,21 @@ h3 {
 /* Two-column layout for bio and news */
 .bio-news-container {
   display: flex;
-  gap: 30px;
+  gap: 25px;
   margin-bottom: 30px;
   align-items: flex-start;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .bio-content {
-  flex: 0 0 52%;
+  flex: 0 0 50%;
+  min-width: 0;
 }
 
 .news-sidebar {
-  flex: 1;
+  flex: 1 1 50%;
+  min-width: 0;
 }
 
 /* Stack on mobile */
