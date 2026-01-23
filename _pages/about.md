@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: " "
 excerpt: "Senior Member of Technical Staff @ AMD"
 author_profile: true
 redirect_from: 

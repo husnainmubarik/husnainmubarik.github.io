@@ -1,5 +1,18 @@
 <!-- Dark mode toggle button and script -->
 <style>
+/* Remove blank space when no page title */
+.page__title {
+  display: none;
+}
+
+.page__content > h2:first-child {
+  margin-top: 0;
+}
+
+.page__inner-wrap > header {
+  margin-bottom: 0;
+}
+
 .theme-toggle {
   position: fixed;
   top: 70px;
