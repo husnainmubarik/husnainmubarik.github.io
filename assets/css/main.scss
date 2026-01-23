@@ -6,33 +6,24 @@
 
 /* Custom CSS overrides */
 
-/* Widen the main content area to utilize full width */
-.page {
-  width: 100%;
-  @include breakpoint($large) {
-    padding-right: 0;
-  }
-  @include breakpoint($x-large) {
-    padding-right: 0;
+/* Maximize content width while respecting sidebar layout */
+.layout--single {
+  .page {
+    @include breakpoint($large) {
+      float: right;
+      width: calc(100% - 300px);
+      padding-right: 2%;
+    }
+    @include breakpoint($x-large) {
+      width: calc(100% - 350px);
+      padding-right: 3%;
+    }
   }
 }
 
 .page__inner-wrap {
-  max-width: 100% !important;
-}
-
-.page__content {
-  max-width: 100% !important;
-  width: 100% !important;
-}
-
-/* For pages with sidebar (author profile) */
-.sidebar__right {
   @include breakpoint($large) {
-    width: calc((100% - #{$right-sidebar-width-narrow}) * 0.75);
-  }
-  @include breakpoint($x-large) {
-    width: calc((100% - #{$right-sidebar-width}) * 0.8);
+    max-width: 100%;
   }
 }
 
