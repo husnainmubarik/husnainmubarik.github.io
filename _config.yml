@@ -19,7 +19,10 @@ author:
   bio: "Senior Member of Technical Staff @ AMD"
   location: "AMD"
   email: "mubarik3@illinois.edu"
-  uri: "https://scholar.google.com/citations?user=Bz0xVZAAAAAJ&hl=en"
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=Bz0xVZAAAAAJ&hl=en"
   github: "husnainmubarik"
   linkedin: "husnain-mubarik"
   twitter: "HusnainMubarik"

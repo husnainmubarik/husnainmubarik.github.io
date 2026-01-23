@@ -2,21 +2,31 @@
 <style>
 .theme-toggle {
   position: fixed;
-  top: 10px;
-  right: 10px;
+  top: 70px;
+  right: 20px;
   z-index: 9999;
   background: #333;
   color: white;
   border: none;
-  padding: 10px 15px;
+  padding: 8px 12px;
   border-radius: 5px;
   cursor: pointer;
-  font-size: 14px;
+  font-size: 13px;
   transition: background 0.3s;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 }
 
 .theme-toggle:hover {
   background: #555;
+}
+
+@media (max-width: 768px) {
+  .theme-toggle {
+    top: 60px;
+    right: 10px;
+    padding: 6px 10px;
+    font-size: 12px;
+  }
 }
 
 body.dark-mode {
@@ -47,7 +57,19 @@ body.dark-mode .author__urls-wrapper {
 }
 
 body.dark-mode .author__urls.social-icons a {
-  color: #9cb5d4;
+  color: #6ea8fe;
+}
+
+body.dark-mode .author__urls.social-icons i {
+  color: #6ea8fe;
+}
+
+body.dark-mode .author__urls.social-icons a:hover {
+  color: #9ec5fe;
+}
+
+body.dark-mode .author__urls.social-icons svg {
+  fill: #6ea8fe;
 }
 
 body.dark-mode .page__content h1,
