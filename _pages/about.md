@@ -38,7 +38,7 @@ Husnain holds a Ph.D. in Electrical and Computer Engineering from the [Universit
 
 ## 📰 Recent News
 
-* **<span style="background-color: #ff4444; color: white; padding: 2px 8px; border-radius: 3px;">NEW</span>** **[June 2024]** Joined the [Advanced Rendering Research Group](https://gpuopen.com/advanced-rendering-research/) at **AMD** as a **Senior Member of Technical Staff (SMTS)** focusing on Graphics and ML. 
+* **<span style="background-color: #ff4444; color: white; padding: 2px 8px; border-radius: 3px;">NEW</span>** **[June 2024]** Joined the [Advanced Rendering Research Group](https://gpuopen.com/advanced-rendering-research/) at **AMD** as a **Senior Member of Technical Staff (SMTS)** focusing on Graphics and ML.
 
 * **[June 2024]** Serving as **Program Committee member** at [HPCA 2025](https://hpca-conf.org/2025/).
 
@@ -46,9 +46,12 @@ Husnain holds a Ph.D. in Electrical and Computer Engineering from the [Universit
 
 * **[May 2024]** Organizing [ML and Systems Rising Stars Program](https://mlcommons.org/about-us/programs/). Please consider applying.
 
-* **[May 2024]** Organizing workshop "[Emerging Vision and Graphics Systems and Architectures (EVGA)](https://sites.google.com/view/evgaisca24)" at ISCA 2024.
-
 * **[March 2024]** Received **Dan Vivoli Endowed Fellowship** for 2024-2025 [Link](https://ece.illinois.edu/academics/grad/fellowships/vivoli).
+
+<details>
+<summary><strong>Show more news...</strong></summary>
+
+* **[May 2024]** Organizing workshop "[Emerging Vision and Graphics Systems and Architectures (EVGA)](https://sites.google.com/view/evgaisca24)" at ISCA 2024.
 
 * **[February 2024]** **Space Microdatacenters** (MICRO 2023) selected as **IEEE Micro Top Picks Honorable Mention 2024**.
 
@@ -59,10 +62,6 @@ Husnain holds a Ph.D. in Electrical and Computer Engineering from the [Universit
 * **[May 2023]** Selected as **Machine Learning and Systems Rising Star** by Harvard, Google, Nvidia and [MLCommons](https://mlcommons.org/en/rising-stars-2023/).
 
 * **[May 2023]** Joined Graphics Research Organization (GRO) at [Intel](https://www.intel.com/content/www/us/en/developer/articles/community/graphic-researchers-muhammad-husnain-mubarik.html) as Full-time Graduate Research Intern.
-
-<details>
-<summary><strong>📜 View All News (Click to expand)</strong></summary>
-<br>
 
 * **[July 2023]** Two-page retrospective for "Printed Microprocessors" now online at [isca-retrospective](https://bpb-us-w2.wpmucdn.com/sites.coecis.cornell.edu/dist/7/587/files/2023/06/Kumar_2020_Printed.pdf).
 

@@ -12,9 +12,9 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 # Site Author
 author:
   name: "Muhammad Husnain Mubarik"
-  avatar: "husnain_profile.jpg"
-  bio: "PhD-ECE-UIUC"
-  location: "210 CSL UIUC"
+  avatar: "/images/husnain_profile.jpg"
+  bio: "Senior Member of Technical Staff @ AMD"
+  location: "AMD"
   email: "mubarik3@illinois.edu"
   googlescholar: "https://scholar.google.com/citations?user=Bz0xVZAAAAAJ&hl=en"
   github: "husnainmubarik"
