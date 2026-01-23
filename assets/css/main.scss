@@ -36,15 +36,43 @@ h3 {
   font-size: 1.15em; // Reduced
 }
 
+/* Two-column layout for bio and news */
+.bio-news-container {
+  display: flex;
+  gap: 30px;
+  margin-bottom: 30px;
+  align-items: flex-start;
+}
+
+.bio-content {
+  flex: 0 0 58%;
+}
+
+.news-sidebar {
+  flex: 0 0 40%;
+}
+
+/* Stack on mobile */
+@media (max-width: 1024px) {
+  .bio-news-container {
+    flex-direction: column;
+  }
+  
+  .bio-content,
+  .news-sidebar {
+    flex: 1 1 100%;
+  }
+}
+
 /* News section scrollable box */
 .news-box {
-  max-height: 400px;
+  max-height: 500px;
   overflow-y: auto;
   border: 1px solid #e0e0e0;
   border-radius: 8px;
   padding: 20px;
   background-color: #fafafa;
-  margin: 20px 0;
+  margin: 10px 0;
 }
 
 .news-box::-webkit-scrollbar {

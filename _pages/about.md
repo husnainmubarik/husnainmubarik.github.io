@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+<div class="bio-news-container">
+
+<div class="bio-content">
+
 ## Short Bio
 
 Husnain Mubarik is a Senior Member of Technical Staff in the [Advanced Rendering Research group at AMD](https://gpuopen.com/advanced-rendering-research/), specializing in Graphics and ML. His expertise involves hardware acceleration for neural graphics and generative AI applications.
@@ -15,16 +19,9 @@ During his Ph.D., Husnain closely worked with research teams from [Intel Labs](h
 
 Husnain holds a Ph.D. in Electrical and Computer Engineering from the [University of Illinois at Urbana-Champaign](https://ece.illinois.edu/), where he completed his dissertation under the guidance of [Prof. Rakesh Kumar](https://passat.crhc.illinois.edu/), focusing on performance optimizations in neural graphics and emerging hardware systems. Before joining UIUC as a Ph.D. candidate, Husnain completed his bachelor's in Electrical Engineering from [National University of Sciences and Technology (NUST), Pakistan](https://nust.edu.pk/).
 
----
+</div>
 
-## 🏆 Selected Honors & Awards
-- **ML & Systems Rising Star** (2023) - Harvard, Google, Nvidia, MLCommons
-- **IEEE Micro Top Picks Honorable Mention** (2024) - Space Microdatacenters
-- **IEEE Micro Top Picks Honorable Mention** (2021) - Printed ML Classifiers
-- **Dan Vivoli Endowed Fellowship** (2024-2025)
-- **ISCA 50-year Retrospective** - Printed Microprocessors selected
-
----
+<div class="news-sidebar">
 
 ## 📰 News
 
@@ -91,6 +88,19 @@ Husnain holds a Ph.D. in Electrical and Computer Engineering from the [Universit
 
 </ul>
 </div>
+
+</div>
+
+</div>
+
+---
+
+## 🏆 Selected Honors & Awards
+- **ML & Systems Rising Star** (2023) - Harvard, Google, Nvidia, MLCommons
+- **IEEE Micro Top Picks Honorable Mention** (2024) - Space Microdatacenters
+- **IEEE Micro Top Picks Honorable Mention** (2021) - Printed ML Classifiers
+- **Dan Vivoli Endowed Fellowship** (2024-2025)
+- **ISCA 50-year Retrospective** - Printed Microprocessors selected
 
 ---
 
