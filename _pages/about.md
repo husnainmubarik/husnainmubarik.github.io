@@ -1,85 +1,107 @@
 ---
 permalink: /
-title: "Short Bio"
-excerpt: "About me"
+title: "Muhammad Husnain Mubarik"
+excerpt: "Senior Member of Technical Staff @ AMD"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Husnain Mubarik is a Senior Member of Technical Staff in the [Advanced Rendering Research group at AMD](https://gpuopen.com/advanced-rendering-research/),
-specializing in Graphics and ML. 
-His expertise involves hardware acceleration for neural graphics and generative AI applications.
-During his Ph.D., Husnain closely worked with research teams from [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html)
-as a research intern.
-His work has earned IEEE Micro Top Picks - Honorable Mentions and inclusion 
-in [ISCA's 50-year retrospective](https://sites.coecis.cornell.edu/isca50retrospective/papers/).
-He was named a [Rising Star in Machine Learning and Systems in 2023](https://mlcommons.org/2023/07/introducing-the-2023-mlcommons-rising-stars/)
-and has received the prestigious Dan Vivoli Endowed Fellowship.
-Husnain holds a Ph.D. in Electrical and Computer Engineering from the [University of Illinois at Urbana-Champaign](https://ece.illinois.edu/),
-where he completed his dissertation under the guidance of [Prof. Rakesh Kumar](https://passat.crhc.illinois.edu/), 
-focusing on performance optimizations in neural graphics and emerging hardware systems.
-Before joining UIUC as a Ph.D. candidate, Husnain completed his bachelor's in Electrical Engineering 
-from [National University of Sciences and Technology (NUST), Pakistan](https://nust.edu.pk/).
+## 🎯 Current Role
+**Senior Member of Technical Staff** at [Advanced Rendering Research Group, AMD](https://gpuopen.com/advanced-rendering-research/)  
+*Specializing in Graphics and ML hardware acceleration for neural graphics and generative AI*
 
+## 🔬 Research Interests
+Neural Graphics • Hardware Acceleration • Generative AI • Computer Architecture • Graphics Systems • ML Systems • Emerging Technologies
 
-## News
-* **<span style="color: red;"> New: </span>** **<span style="color: #084780;">[June 2024]</span>**
-I have joined the [Advanced Rendering Research Group](https://gpuopen.com/advanced-rendering-research/) at AMD as a Senior Member of Technical Staff (SMTS) focusing on Graphics and ML. 
-* **<span style="color: #084780;">[June 2024]</span>** 
-I will be serving as a Program Committee (PC) member at the [31st International Symposium on High-Performance Computer Architecture (HPCA)](https://hpca-conf.org/2025/), 2025.
-* **<span style="color: #084780;">[May 2024]</span>** 
-I successfully defended my Ph.D. thesis titled "Hardware Acceleration of Neural Graphics" on May 6th, 2024.
-* **<span style="color: #084780;">[May 2024]</span>** 
-We are oraganizing [ML and Systems Rising Stars Program](https://mlcommons.org/about-us/programs/). Please consider applying.
-* **<span style="color: #084780;">[May 2024]</span>** 
-We are organizing a workshop titled "[Emerging Vision and Graphics Systems and Architectures (EVGA)](https://sites.google.com/view/evgaisca24)", co-located with the 51st International Symposium on Computer Architecture (ISCA), 2024. Please, consider submitting your most interesting work on ML, vision, graphics and computer architecture. 
-* **<span style="color: #084780;">[March 2024]</span>** 
-Selected to receive the **Dan Vivoli Endowed Fellowship** for the 2024-2025 academic year [Link](https://ece.illinois.edu/academics/grad/fellowships/vivoli).
-* **<span style="color: #084780;"> [February 2024]</span>** 
-Space Microdatacenters paper (MICRO 2023) is selected as **IEEE Micro Top Picks - Honorable Mention 2024**. 
-* **<span style="color: #084780;">[July 2023]</span>** 
-Our paper titled **Space Microdatacenters** has been accepted at **MICRO-56th, 2023**. 
-* **<span style="color: #084780;">[July 2023]</span>**
-The two-page retrospective that we composed for our paper on "Printed Microprocessors" for the ISCA-50th 25-year (1996-2020) retrospective is now accessible online at [isca-retrospective](https://bpb-us-w2.wpmucdn.com/sites.coecis.cornell.edu/dist/7/587/files/2023/06/Kumar_2020_Printed.pdf). 
-* **<span style="color: #084780;">[June 2023]</span>**
-Presented "Hardware Acceleration of Neural Graphics" paper at ISCA-50th, 2023 [SLIDES](https://husnainmubarik.github.io/files/isca2023NG_copy.pptx), [Lightning-talk](https://www.youtube.com/watch?v=4KK4MNr-IBI&ab_channel=ACMSIGARCH).
-* **<span style="color: #084780;">[May 2023]</span>**
-Selected for the retrospective of the years 1996 through 2020 on the 50th anniversary of ISCA for our paper "Printed Microprocessors" (ISCA-47th, 2020).
-* **<span style="color: #084780;">[May 2023]</span>** 
-Selected as **Machine Learning and Systems Rising Star** - Harvard, Google, Nvidia and [MLCommons](https://mlcommons.org/en/rising-stars-2023/).
-* **<span style="color: #084780;">[May 2023]</span>** 
-The preprint of our paper titled **Understanding Interactions Between Chip Architecture and Uncertainties in Semiconductor Supply and Demand** is now available at [arXiv](https://arxiv.org/abs/2305.11059).
-* **<span style="color: #084780;">[May 2023]</span>** 
-I've joined the Graphics Research Organization (GRO) at Intel [GRO-Intel-Husnain](https://www.intel.com/content/www/us/en/developer/articles/community/graphic-researchers-muhammad-husnain-mubarik.html) as a Full-time Graduate Research Intern. 
-* **<span style="color: #084780;">[May 2023]</span>** 
-Gave a talk on "Neural Graphics: An Architecture’s Perspective" at ECE498SJP: Accelerator Architectures class at UIUC. [Slides](https://husnainmubarik.github.io/files/ece498SJPNG.pdf).
-* **<span style="color: #084780;">[April 2023]</span>** 
-The camera ready version of our **Hardware Acceleration of Neural Graphics** paper is available at [NG\_camera\_ready](https://husnainmubarik.github.io/files/isca_2023.pdf). 
-* **<span style="color: #084780;">[Mar 2023]</span>** 
-The preprint of our **Hardware Acceleration of Neural Graphics** paper is available at [arXiv](https://arxiv.org/abs/2303.05735). 
-* **<span style="color: #084780;">[Mar 2023]</span>** 
-Our **Hardware Acceleration of Neural Graphics** paper got accepted at **ISCA-50th, 2023**. 
-* **<span style="color: #084780;">[Oct 2022]</span>** 
-Our **Exploiting Short Application Lifetimes for Low Cost Hardware Encryption in Flexible Electronics** paper got accepted at **DATE 2023**. 
-* **<span style="color: #084780;">[March 2022]</span>** 
-Our **Rethinking Programmable Earable Processors** paper got accepted at **ISCA-49th, 2022**. 
-* **<span style="color: #084780;">[Dec 2021]</span>** 
-I've joined the Cloud Systems Research Lab at [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html) as a Part-time Graduate Research Intern. 
-* **<span style="color: #084780;">[May 2021]</span>** 
-I've joined the Heterogeneous Platforms Labs at [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html) as a Graduate Research Intern. 
-* **<span style="color: #084780;">[December 2020]</span>** 
-Passed the PhD qualification exam (Computer architecture qual. - ECE UIUC). 
-* **<span style="color: #084780;">[November 2020]</span>** 
-Printed Machine Learning Classifiers paper selected as IEEE Micro Top Picks - Honorable Mention 2021. 
-* **<span style="color: #084780;">[October 2020]</span>** 
-Printed Machine Learning Classifiers paper presented at MICRO-53rd, 2020 [VIDEO](https://www.youtube.com/watch?v=RzE-ThPiMxI). 
-* **<span style="color: #084780;">[July 2020]</span>** 
-Our **Printed Machine Learning Classifiers** paper got accepted at **MICRO 2020**. 
-* **<span style="color: #084780;">[March 2020]</span>** 
-Our **Printed Microprocessors** paper got accepted at **ISCA-47th, 2020**. 
-* **<span style="color: #084780;">[January 2019]</span>** 
-Joined the [PASSAT](https://passat.crhc.illinois.edu/) group at UIUC supervised by Dr. Rakesh Kumar. 
-* **<span style="color: #084780;">[January 2019]</span>** 
-Joined the Electrical and Computer Engineering Ph.D. program at UIUC.
+---
+
+## Short Bio
+
+Husnain Mubarik is a Senior Member of Technical Staff in the [Advanced Rendering Research group at AMD](https://gpuopen.com/advanced-rendering-research/), specializing in Graphics and ML. His expertise involves hardware acceleration for neural graphics and generative AI applications.
+
+During his Ph.D., Husnain closely worked with research teams from [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html) as a research intern. His work has earned **two IEEE Micro Top Picks Honorable Mentions** and inclusion in [ISCA's 50-year retrospective](https://sites.coecis.cornell.edu/isca50retrospective/papers/). He was named a [**Rising Star in Machine Learning and Systems in 2023**](https://mlcommons.org/2023/07/introducing-the-2023-mlcommons-rising-stars/) and has received the prestigious **Dan Vivoli Endowed Fellowship**.
+
+Husnain holds a Ph.D. in Electrical and Computer Engineering from the [University of Illinois at Urbana-Champaign](https://ece.illinois.edu/), where he completed his dissertation under the guidance of [Prof. Rakesh Kumar](https://passat.crhc.illinois.edu/), focusing on performance optimizations in neural graphics and emerging hardware systems. Before joining UIUC as a Ph.D. candidate, Husnain completed his bachelor's in Electrical Engineering from [National University of Sciences and Technology (NUST), Pakistan](https://nust.edu.pk/).
+
+---
+
+## 🏆 Selected Honors & Awards
+- **ML & Systems Rising Star** (2023) - Harvard, Google, Nvidia, MLCommons
+- **IEEE Micro Top Picks Honorable Mention** (2024) - Space Microdatacenters
+- **IEEE Micro Top Picks Honorable Mention** (2021) - Printed ML Classifiers
+- **Dan Vivoli Endowed Fellowship** (2024-2025)
+- **ISCA 50-year Retrospective** - Printed Microprocessors selected
+
+---
+
+## 📰 Recent News
+
+* **<span style="background-color: #ff4444; color: white; padding: 2px 8px; border-radius: 3px;">NEW</span>** **[June 2024]** Joined the [Advanced Rendering Research Group](https://gpuopen.com/advanced-rendering-research/) at **AMD** as a **Senior Member of Technical Staff (SMTS)** focusing on Graphics and ML. 
+
+* **[June 2024]** Serving as **Program Committee member** at [HPCA 2025](https://hpca-conf.org/2025/).
+
+* **[May 2024]** Successfully **defended Ph.D. thesis** titled "Hardware Acceleration of Neural Graphics".
+
+* **[May 2024]** Organizing [ML and Systems Rising Stars Program](https://mlcommons.org/about-us/programs/). Please consider applying.
+
+* **[May 2024]** Organizing workshop "[Emerging Vision and Graphics Systems and Architectures (EVGA)](https://sites.google.com/view/evgaisca24)" at ISCA 2024.
+
+* **[March 2024]** Received **Dan Vivoli Endowed Fellowship** for 2024-2025 [Link](https://ece.illinois.edu/academics/grad/fellowships/vivoli).
+
+* **[February 2024]** **Space Microdatacenters** (MICRO 2023) selected as **IEEE Micro Top Picks Honorable Mention 2024**.
+
+* **[July 2023]** Paper **"Space Microdatacenters"** accepted at **MICRO-56th, 2023**.
+
+* **[June 2023]** Presented "Hardware Acceleration of Neural Graphics" at **ISCA-50th, 2023** [SLIDES](https://husnainmubarik.github.io/files/isca2023NG_copy.pptx) • [Lightning-talk](https://www.youtube.com/watch?v=4KK4MNr-IBI&ab_channel=ACMSIGARCH)
+
+* **[May 2023]** Selected as **Machine Learning and Systems Rising Star** by Harvard, Google, Nvidia and [MLCommons](https://mlcommons.org/en/rising-stars-2023/).
+
+* **[May 2023]** Joined Graphics Research Organization (GRO) at [Intel](https://www.intel.com/content/www/us/en/developer/articles/community/graphic-researchers-muhammad-husnain-mubarik.html) as Full-time Graduate Research Intern.
+
+<details>
+<summary><strong>📜 View All News (Click to expand)</strong></summary>
+<br>
+
+* **[July 2023]** Two-page retrospective for "Printed Microprocessors" now online at [isca-retrospective](https://bpb-us-w2.wpmucdn.com/sites.coecis.cornell.edu/dist/7/587/files/2023/06/Kumar_2020_Printed.pdf).
+
+* **[May 2023]** Selected for ISCA 50th anniversary retrospective (1996-2020) for "Printed Microprocessors" (ISCA-47th, 2020).
+
+* **[May 2023]** Preprint: [Understanding Interactions Between Chip Architecture and Uncertainties in Semiconductor Supply and Demand](https://arxiv.org/abs/2305.11059).
+
+* **[May 2023]** Gave talk on "Neural Graphics: An Architecture's Perspective" at UIUC [Slides](https://husnainmubarik.github.io/files/ece498SJPNG.pdf).
+
+* **[April 2023]** Camera ready: [Hardware Acceleration of Neural Graphics](https://husnainmubarik.github.io/files/isca_2023.pdf).
+
+* **[March 2023]** Preprint: [Hardware Acceleration of Neural Graphics](https://arxiv.org/abs/2303.05735).
+
+* **[March 2023]** Paper accepted at **ISCA-50th, 2023** - "Hardware Acceleration of Neural Graphics".
+
+* **[October 2022]** Paper accepted at **DATE 2023** - "Exploiting Short Application Lifetimes for Low Cost Hardware Encryption".
+
+* **[March 2022]** Paper accepted at **ISCA-49th, 2022** - "Rethinking Programmable Earable Processors".
+
+* **[December 2021]** Joined Cloud Systems Research Lab at Intel Labs as Part-time Graduate Research Intern.
+
+* **[May 2021]** Joined Heterogeneous Platforms Labs at Intel Labs as Graduate Research Intern.
+
+* **[December 2020]** Passed PhD qualification exam (Computer Architecture - ECE UIUC).
+
+* **[November 2020]** **Printed Machine Learning Classifiers** selected as **IEEE Micro Top Picks Honorable Mention 2021**.
+
+* **[October 2020]** Presented "Printed Machine Learning Classifiers" at MICRO-53rd [VIDEO](https://www.youtube.com/watch?v=RzE-ThPiMxI).
+
+* **[July 2020]** Paper accepted at **MICRO 2020** - "Printed Machine Learning Classifiers".
+
+* **[March 2020]** Paper accepted at **ISCA-47th, 2020** - "Printed Microprocessors".
+
+* **[January 2019]** Joined [PASSAT](https://passat.crhc.illinois.edu/) group at UIUC supervised by Prof. Rakesh Kumar.
+
+* **[January 2019]** Joined Electrical and Computer Engineering Ph.D. program at UIUC.
+
+</details>
+
+---
+
+*Last updated: January 2026*
