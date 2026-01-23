@@ -1,22 +1,22 @@
 {
-  "name": "minimal-mistakes",
-  "version": "3.4.2",
-  "description": "Minimal Mistakes Jekyll theme npm build scripts",
+  "name": "husnainmubarik-website",
+  "version": "1.0.0",
+  "description": "Muhammad Husnain Mubarik's personal academic website",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/minimal-mistakes.git"
+    "url": "git://github.com/husnainmubarik/husnainmubarik.github.io.git"
   },
   "keywords": [
-    "jekyll",
-    "theme",
-    "minimal"
+    "academic",
+    "portfolio",
+    "personal-website"
   ],
-  "author": "Michael Rose",
+  "author": "Muhammad Husnain Mubarik",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mmistakes/minimal-mistakes/issues"
+    "url": "https://github.com/husnainmubarik/husnainmubarik.github.io/issues"
   },
-  "homepage": "https://mmistakes.github.io/minimal-mistakes/",
+  "homepage": "https://husnainmubarik.github.io/",
   "engines": {
     "node": ">= 0.10.0"
   },
