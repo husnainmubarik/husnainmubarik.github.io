@@ -1,10 +1,12 @@
 ---
 permalink: /publications/
-title: "Publications & Presentations"
+title: "Research"
 author_profile: true
 redirect_from: 
   - /md/
   - /publications.html
+  - /research/
+  - /research.html
 ---
 
 ## 📚 Conference Publications
@@ -78,3 +80,29 @@ R. Kanungo, S. Swamy, N. Bleier, **M. Mubarik** and R. Kumar
 - **ISCA 50-year Retrospective** - Selected for inclusion in 25-year retrospective
 - **Rising Star Recognition** - ML & Systems (2023)
 - Publications at premier venues: **ISCA, MICRO, DATE**
+
+---
+
+## 🤝 Professional Service
+
+### Conference Roles
+
+**Program Committee (PC) Member:**
+- 53rd International Symposium on Computer Architecture (**ISCA**), 2026
+- 63rd Design Automation Conference (**DAC**), 2026
+- The ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**), 2026
+- 9th Annual Conference on Machine Learning and Systems (**MLSys**), 2026
+- 62nd Design Automation Conference (**DAC**), 2025
+- 52nd International Symposium on Computer Architecture (**ISCA**), 2025
+- 8th Annual Conference on Machine Learning and Systems (**MLSys**), 2025
+- 31st International Symposium on High-Performance Computer Architecture (**HPCA**), 2025
+- International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**), 2025 - Artifact Evaluation Committee Member
+- Emerging Vision and Graphics Systems and Architectures (**EVGA**), co-located with the 51st International Symposium on Computer Architecture (ISCA), 2024
+
+**Reviewer:**
+- ACM Transactions on Architecture and Code Optimization (**TACO**)
+
+### Workshop Organization
+
+- **ML and Systems Rising Stars**, 2024 - Present
+- **Emerging Vision and Graphics Systems and Architectures (EVGA)**, co-located with the 51st International Symposium on Computer Architecture (ISCA), 2024

@@ -28,7 +28,11 @@ Husnain holds a Ph.D. in Electrical and Computer Engineering from the [Universit
 <div class="news-box">
 <ul>
 
-<li><strong><span style="background-color: #ff4444; color: white; padding: 2px 8px; border-radius: 3px;">NEW</span> [June 2024]</strong> Joined the <a href="https://gpuopen.com/advanced-rendering-research/">Advanced Rendering Research Group</a> at <strong>AMD</strong> as a <strong>Senior Member of Technical Staff (SMTS)</strong> focusing on Graphics and ML.</li>
+<li><strong><span style="background-color: #ff4444; color: white; padding: 2px 8px; border-radius: 3px;">NEW</span> [December 2025]</strong> Attended <a href="https://web.cvent.com/event/88cda1d6-bea5-4ba9-880e-8f01a9e9c74e/summary">UIDP Workshop: Identifying Opportunities to Dramatically Improve AI Efficiency</a>.</li>
+
+<li><strong>[May 2025]</strong> Organized <a href="https://mlcommons.org/2025/06/2025-mlc-rising-stars/">ML and Systems Rising Stars Workshop</a> at <strong>Meta</strong>.</li>
+
+<li><strong>[June 2024]</strong> Joined the <a href="https://gpuopen.com/advanced-rendering-research/">Advanced Rendering Research Group</a> at <strong>AMD</strong> as a <strong>Senior Member of Technical Staff (SMTS)</strong> focusing on Graphics and ML.</li>
 
 <li><strong>[June 2024]</strong> Serving as <strong>Program Committee member</strong> at <a href="https://hpca-conf.org/2025/">HPCA 2025</a>.</li>
 
