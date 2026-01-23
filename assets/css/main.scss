@@ -6,6 +6,36 @@
 
 /* Custom CSS overrides */
 
+/* Widen the main content area to utilize full width */
+.page {
+  width: 100%;
+  @include breakpoint($large) {
+    padding-right: 0;
+  }
+  @include breakpoint($x-large) {
+    padding-right: 0;
+  }
+}
+
+.page__inner-wrap {
+  max-width: 100% !important;
+}
+
+.page__content {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+/* For pages with sidebar (author profile) */
+.sidebar__right {
+  @include breakpoint($large) {
+    width: calc((100% - #{$right-sidebar-width-narrow}) * 0.75);
+  }
+  @include breakpoint($x-large) {
+    width: calc((100% - #{$right-sidebar-width}) * 0.8);
+  }
+}
+
 /* Reduce overall font size */
 html {
   font-size: 14px; // Reduced from default 16px
