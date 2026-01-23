@@ -36,70 +36,71 @@ Husnain holds a Ph.D. in Electrical and Computer Engineering from the [Universit
 
 ---
 
-## 📰 Recent News
+## 📰 News
 
-* **<span style="background-color: #ff4444; color: white; padding: 2px 8px; border-radius: 3px;">NEW</span>** **[June 2024]** Joined the [Advanced Rendering Research Group](https://gpuopen.com/advanced-rendering-research/) at **AMD** as a **Senior Member of Technical Staff (SMTS)** focusing on Graphics and ML.
+<div class="news-box">
+<ul>
 
-* **[June 2024]** Serving as **Program Committee member** at [HPCA 2025](https://hpca-conf.org/2025/).
+<li><strong><span style="background-color: #ff4444; color: white; padding: 2px 8px; border-radius: 3px;">NEW</span> [June 2024]</strong> Joined the <a href="https://gpuopen.com/advanced-rendering-research/">Advanced Rendering Research Group</a> at <strong>AMD</strong> as a <strong>Senior Member of Technical Staff (SMTS)</strong> focusing on Graphics and ML.</li>
 
-* **[May 2024]** Successfully **defended Ph.D. thesis** titled "Hardware Acceleration of Neural Graphics".
+<li><strong>[June 2024]</strong> Serving as <strong>Program Committee member</strong> at <a href="https://hpca-conf.org/2025/">HPCA 2025</a>.</li>
 
-* **[May 2024]** Organizing [ML and Systems Rising Stars Program](https://mlcommons.org/about-us/programs/). Please consider applying.
+<li><strong>[May 2024]</strong> Successfully <strong>defended Ph.D. thesis</strong> titled "Hardware Acceleration of Neural Graphics".</li>
 
-* **[March 2024]** Received **Dan Vivoli Endowed Fellowship** for 2024-2025 [Link](https://ece.illinois.edu/academics/grad/fellowships/vivoli).
+<li><strong>[May 2024]</strong> Organizing <a href="https://mlcommons.org/about-us/programs/">ML and Systems Rising Stars Program</a>. Please consider applying.</li>
 
-<details>
-<summary><strong>Show more news...</strong></summary>
+<li><strong>[May 2024]</strong> Organizing workshop "<a href="https://sites.google.com/view/evgaisca24">Emerging Vision and Graphics Systems and Architectures (EVGA)</a>" at ISCA 2024.</li>
 
-* **[May 2024]** Organizing workshop "[Emerging Vision and Graphics Systems and Architectures (EVGA)](https://sites.google.com/view/evgaisca24)" at ISCA 2024.
+<li><strong>[March 2024]</strong> Received <strong>Dan Vivoli Endowed Fellowship</strong> for 2024-2025 <a href="https://ece.illinois.edu/academics/grad/fellowships/vivoli">Link</a>.</li>
 
-* **[February 2024]** **Space Microdatacenters** (MICRO 2023) selected as **IEEE Micro Top Picks Honorable Mention 2024**.
+<li><strong>[February 2024]</strong> <strong>Space Microdatacenters</strong> (MICRO 2023) selected as <strong>IEEE Micro Top Picks Honorable Mention 2024</strong>.</li>
 
-* **[July 2023]** Paper **"Space Microdatacenters"** accepted at **MICRO-56th, 2023**.
+<li><strong>[July 2023]</strong> Paper <strong>"Space Microdatacenters"</strong> accepted at <strong>MICRO-56th, 2023</strong>.</li>
 
-* **[June 2023]** Presented "Hardware Acceleration of Neural Graphics" at **ISCA-50th, 2023** [SLIDES](https://husnainmubarik.github.io/files/isca2023NG_copy.pptx) • [Lightning-talk](https://www.youtube.com/watch?v=4KK4MNr-IBI&ab_channel=ACMSIGARCH)
+<li><strong>[July 2023]</strong> Two-page retrospective for "Printed Microprocessors" now online at <a href="https://bpb-us-w2.wpmucdn.com/sites.coecis.cornell.edu/dist/7/587/files/2023/06/Kumar_2020_Printed.pdf">isca-retrospective</a>.</li>
 
-* **[May 2023]** Selected as **Machine Learning and Systems Rising Star** by Harvard, Google, Nvidia and [MLCommons](https://mlcommons.org/en/rising-stars-2023/).
+<li><strong>[June 2023]</strong> Presented "Hardware Acceleration of Neural Graphics" at <strong>ISCA-50th, 2023</strong> <a href="https://husnainmubarik.github.io/files/isca2023NG_copy.pptx">SLIDES</a> • <a href="https://www.youtube.com/watch?v=4KK4MNr-IBI&ab_channel=ACMSIGARCH">Lightning-talk</a></li>
 
-* **[May 2023]** Joined Graphics Research Organization (GRO) at [Intel](https://www.intel.com/content/www/us/en/developer/articles/community/graphic-researchers-muhammad-husnain-mubarik.html) as Full-time Graduate Research Intern.
+<li><strong>[May 2023]</strong> Selected as <strong>Machine Learning and Systems Rising Star</strong> by Harvard, Google, Nvidia and <a href="https://mlcommons.org/en/rising-stars-2023/">MLCommons</a>.</li>
 
-* **[July 2023]** Two-page retrospective for "Printed Microprocessors" now online at [isca-retrospective](https://bpb-us-w2.wpmucdn.com/sites.coecis.cornell.edu/dist/7/587/files/2023/06/Kumar_2020_Printed.pdf).
+<li><strong>[May 2023]</strong> Joined Graphics Research Organization (GRO) at <a href="https://www.intel.com/content/www/us/en/developer/articles/community/graphic-researchers-muhammad-husnain-mubarik.html">Intel</a> as Full-time Graduate Research Intern.</li>
 
-* **[May 2023]** Selected for ISCA 50th anniversary retrospective (1996-2020) for "Printed Microprocessors" (ISCA-47th, 2020).
+<li><strong>[May 2023]</strong> Selected for ISCA 50th anniversary retrospective (1996-2020) for "Printed Microprocessors" (ISCA-47th, 2020).</li>
 
-* **[May 2023]** Preprint: [Understanding Interactions Between Chip Architecture and Uncertainties in Semiconductor Supply and Demand](https://arxiv.org/abs/2305.11059).
+<li><strong>[May 2023]</strong> Preprint: <a href="https://arxiv.org/abs/2305.11059">Understanding Interactions Between Chip Architecture and Uncertainties in Semiconductor Supply and Demand</a>.</li>
 
-* **[May 2023]** Gave talk on "Neural Graphics: An Architecture's Perspective" at UIUC [Slides](https://husnainmubarik.github.io/files/ece498SJPNG.pdf).
+<li><strong>[May 2023]</strong> Gave talk on "Neural Graphics: An Architecture's Perspective" at UIUC <a href="https://husnainmubarik.github.io/files/ece498SJPNG.pdf">Slides</a>.</li>
 
-* **[April 2023]** Camera ready: [Hardware Acceleration of Neural Graphics](https://husnainmubarik.github.io/files/isca_2023.pdf).
+<li><strong>[April 2023]</strong> Camera ready: <a href="https://husnainmubarik.github.io/files/isca_2023.pdf">Hardware Acceleration of Neural Graphics</a>.</li>
 
-* **[March 2023]** Preprint: [Hardware Acceleration of Neural Graphics](https://arxiv.org/abs/2303.05735).
+<li><strong>[March 2023]</strong> Preprint: <a href="https://arxiv.org/abs/2303.05735">Hardware Acceleration of Neural Graphics</a>.</li>
 
-* **[March 2023]** Paper accepted at **ISCA-50th, 2023** - "Hardware Acceleration of Neural Graphics".
+<li><strong>[March 2023]</strong> Paper accepted at <strong>ISCA-50th, 2023</strong> - "Hardware Acceleration of Neural Graphics".</li>
 
-* **[October 2022]** Paper accepted at **DATE 2023** - "Exploiting Short Application Lifetimes for Low Cost Hardware Encryption".
+<li><strong>[October 2022]</strong> Paper accepted at <strong>DATE 2023</strong> - "Exploiting Short Application Lifetimes for Low Cost Hardware Encryption".</li>
 
-* **[March 2022]** Paper accepted at **ISCA-49th, 2022** - "Rethinking Programmable Earable Processors".
+<li><strong>[March 2022]</strong> Paper accepted at <strong>ISCA-49th, 2022</strong> - "Rethinking Programmable Earable Processors".</li>
 
-* **[December 2021]** Joined Cloud Systems Research Lab at Intel Labs as Part-time Graduate Research Intern.
+<li><strong>[December 2021]</strong> Joined Cloud Systems Research Lab at Intel Labs as Part-time Graduate Research Intern.</li>
 
-* **[May 2021]** Joined Heterogeneous Platforms Labs at Intel Labs as Graduate Research Intern.
+<li><strong>[May 2021]</strong> Joined Heterogeneous Platforms Labs at Intel Labs as Graduate Research Intern.</li>
 
-* **[December 2020]** Passed PhD qualification exam (Computer Architecture - ECE UIUC).
+<li><strong>[December 2020]</strong> Passed PhD qualification exam (Computer Architecture - ECE UIUC).</li>
 
-* **[November 2020]** **Printed Machine Learning Classifiers** selected as **IEEE Micro Top Picks Honorable Mention 2021**.
+<li><strong>[November 2020]</strong> <strong>Printed Machine Learning Classifiers</strong> selected as <strong>IEEE Micro Top Picks Honorable Mention 2021</strong>.</li>
 
-* **[October 2020]** Presented "Printed Machine Learning Classifiers" at MICRO-53rd [VIDEO](https://www.youtube.com/watch?v=RzE-ThPiMxI).
+<li><strong>[October 2020]</strong> Presented "Printed Machine Learning Classifiers" at MICRO-53rd <a href="https://www.youtube.com/watch?v=RzE-ThPiMxI">VIDEO</a>.</li>
 
-* **[July 2020]** Paper accepted at **MICRO 2020** - "Printed Machine Learning Classifiers".
+<li><strong>[July 2020]</strong> Paper accepted at <strong>MICRO 2020</strong> - "Printed Machine Learning Classifiers".</li>
 
-* **[March 2020]** Paper accepted at **ISCA-47th, 2020** - "Printed Microprocessors".
+<li><strong>[March 2020]</strong> Paper accepted at <strong>ISCA-47th, 2020</strong> - "Printed Microprocessors".</li>
 
-* **[January 2019]** Joined [PASSAT](https://passat.crhc.illinois.edu/) group at UIUC supervised by Prof. Rakesh Kumar.
+<li><strong>[January 2019]</strong> Joined <a href="https://passat.crhc.illinois.edu/">PASSAT</a> group at UIUC supervised by Prof. Rakesh Kumar.</li>
 
-* **[January 2019]** Joined Electrical and Computer Engineering Ph.D. program at UIUC.
+<li><strong>[January 2019]</strong> Joined Electrical and Computer Engineering Ph.D. program at UIUC.</li>
 
-</details>
+</ul>
+</div>
 
 ---
 
