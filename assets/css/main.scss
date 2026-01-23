@@ -6,44 +6,53 @@
 
 /* Custom CSS overrides */
 
-/* Override theme's max-width constraints completely */
-.layout--single {
+/* Force full width layout - apply to all page variations */
+.page,
+.layout--single .page,
+.layout--archive .page,
+body .page {
   @include breakpoint($large) {
-    .sidebar {
-      width: 250px;
-      float: left;
-    }
-    
-    .page {
-      float: right;
-      width: calc(100% - 270px);
-      padding-left: 0;
-      padding-right: 0;
-    }
+    float: right !important;
+    width: calc(100% - 270px) !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
   }
   
   @include breakpoint($x-large) {
-    .sidebar {
-      width: 300px;
-    }
-    
-    .page {
-      width: calc(100% - 320px);
-    }
+    width: calc(100% - 320px) !important;
   }
 }
 
-/* Remove all max-width constraints */
+/* Sidebar fixed width */
+.sidebar,
+.layout--single .sidebar,
+body .sidebar {
+  @include breakpoint($large) {
+    width: 250px !important;
+    float: left !important;
+  }
+  
+  @include breakpoint($x-large) {
+    width: 300px !important;
+  }
+}
+
+/* Remove all max-width constraints aggressively */
 .page__inner-wrap,
 .archive,
-.archive__item-body {
+.archive__item-body,
+.page__content,
+body .page__inner-wrap,
+body .page__content {
   max-width: none !important;
+  width: 100% !important;
 }
 
 /* Make content area fill available width */
 .page__content {
   margin: 0 !important;
   padding: 0 !important;
+  box-sizing: border-box !important;
 }
 
 /* Reduce overall font size */
