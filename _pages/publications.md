@@ -9,8 +9,6 @@ redirect_from:
 
 ## 📚 Conference Publications
 
-### 2023
-
 **Space Microdatacenters**  
 N. Bleier, **M. Mubarik**, G. Swenson and R. Kumar  
 *56th IEEE/ACM International Symposium on Microarchitecture* (**MICRO-56**), 2023  
@@ -27,18 +25,10 @@ N. Bleier, **M. Mubarik**, S. Balaji, F. Rodriguez, A. Sou, S. White and R. Kuma
 *Design, Automation & Test in Europe Conference* (**DATE**), 2023  
 [📄 Paper](https://ieeexplore.ieee.org/abstract/document/10137258) • [📥 PDF](https://husnainmubarik.github.io/files/date23.pdf)
 
----
-
-### 2022
-
 **Rethinking Programmable Earable Processors**  
 N. Bleier, **M. Mubarik**, S. Chakraborty, S. Kishore, R. Kumar  
 *49th International Symposium on Computer Architecture* (**ISCA-49**), 2022  
 [📄 Paper](https://dl.acm.org/doi/abs/10.1145/3470496.3527396)
-
----
-
-### 2020
 
 **Printed Machine Learning Classifiers**  
 **M. Mubarik**, D. Weller, N. Bleier, M. Tomei, M. J. Aghassi-Hagmann, M. Tahoori, R. Kumar  
