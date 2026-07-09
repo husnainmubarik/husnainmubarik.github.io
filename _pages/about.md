@@ -28,7 +28,9 @@ Husnain holds a Ph.D. in Electrical and Computer Engineering from the [Universit
 <div class="news-box">
 <ul>
 
-<li><strong><span style="background-color: #ff4444; color: white; padding: 2px 8px; border-radius: 3px;">NEW</span> [December 2025]</strong> Attended <a href="https://web.cvent.com/event/88cda1d6-bea5-4ba9-880e-8f01a9e9c74e/summary">UIDP Workshop: Identifying Opportunities to Dramatically Improve AI Efficiency</a>.</li>
+<li><strong><span style="background-color: #ff4444; color: white; padding: 2px 8px; border-radius: 3px;">NEW</span> [July 2026]</strong> Paper <strong>"From Bit-Position Sensitivity to Unequal Error Protection for DNN Inference Memory"</strong> accepted at <strong>MICRO-59th, 2026</strong>.</li>
+
+<li><strong>[December 2025]</strong> Attended <a href="https://web.cvent.com/event/88cda1d6-bea5-4ba9-880e-8f01a9e9c74e/summary">UIDP Workshop: Identifying Opportunities to Dramatically Improve AI Efficiency</a>.</li>
 
 <li><strong>[May 2025]</strong> Organized <a href="https://mlcommons.org/2025/06/2025-mlc-rising-stars/">ML and Systems Rising Stars Workshop</a> at <strong>Meta</strong>.</li>
 
@@ -108,4 +110,4 @@ Husnain holds a Ph.D. in Electrical and Computer Engineering from the [Universit
 
 ---
 
-*Last updated: January 2026*
+*Last updated: July 2026*

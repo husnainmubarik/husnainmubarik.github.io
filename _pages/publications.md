@@ -11,6 +11,10 @@ redirect_from:
 
 ## 📚 Conference Publications
 
+**From Bit-Position Sensitivity to Unequal Error Protection for DNN Inference Memory**  
+**M. H. Mubarik**, K. Mohan Kumar, P. A. Pena, K. Varadarajan and K. Tyagi  
+*59th IEEE/ACM International Symposium on Microarchitecture* (**MICRO-59**), 2026
+
 **Space Microdatacenters**  
 N. Bleier, **M. Mubarik**, G. Swenson and R. Kumar  
 *56th IEEE/ACM International Symposium on Microarchitecture* (**MICRO-56**), 2023  
