@@ -28,7 +28,9 @@ Husnain holds a Ph.D. in Electrical and Computer Engineering from the [Universit
 <div class="news-box">
 <ul>
 
-<li><strong><span style="background-color: #ff4444; color: white; padding: 2px 8px; border-radius: 3px;">NEW</span> [July 2026]</strong> Paper <strong>"From Bit-Position Sensitivity to Unequal Error Protection for DNN Inference Memory"</strong> accepted at <strong>MICRO-59th, 2026</strong>.</li>
+<li><strong><span style="background-color: #ff4444; color: white; padding: 2px 8px; border-radius: 3px;">NEW</span> [July 2026]</strong> Paper <strong>"From Bit-Position Sensitivity to Unequal Error Protection for DNN Inference Memory"</strong> (MICRO 2026) now available on <a href="https://arxiv.org/abs/2607.19623">arXiv</a>.</li>
+
+<li><strong>[July 2026]</strong> Paper <strong>"From Bit-Position Sensitivity to Unequal Error Protection for DNN Inference Memory"</strong> accepted at <strong>MICRO-59th, 2026</strong>.</li>
 
 <li><strong>[December 2025]</strong> Attended <a href="https://web.cvent.com/event/88cda1d6-bea5-4ba9-880e-8f01a9e9c74e/summary">UIDP Workshop: Identifying Opportunities to Dramatically Improve AI Efficiency</a>.</li>
 

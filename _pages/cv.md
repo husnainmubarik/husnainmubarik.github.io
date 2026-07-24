@@ -194,4 +194,4 @@ Advisor: Prof. Rakesh Kumar
   <a href="/files/mubarik3CV.pdf" style="background-color: #0066cc; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">📥 Download Full CV (PDF)</a>
 </div>
 
-*Last updated: January 2026*
+*Last updated: July 2026*
